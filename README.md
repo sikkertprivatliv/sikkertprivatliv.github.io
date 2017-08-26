@@ -20,8 +20,8 @@ Enn så lenge trenger vi diskusjon rundt prosjektet og hjelp til å finne skrive
 ### Hvem står bak prosjektet?  
 Det er et privat initiativ fra meg, Nelson Cheuque. Jeg har jobbet noen år innad sikkerhets-bransjen og får ofte spørsmål om hvordan man kan være "mer sikker". Mitt håp er at dette prosjektet vil hjelpe den vanlige brukeren å finne frem til gode tips på hvordan de kan sikre sitt privat liv.
 
-###Kontakt  
-![https://twitter.com/sikkerprivatliv](img/logos/twitter.png)
+### Kontakt  
+<a href="https://twitter.com/sikkerprivatliv/" rel="some text">![Twitter](img/logos/twitter.png)</a>
 
 
 ### Lisens  
