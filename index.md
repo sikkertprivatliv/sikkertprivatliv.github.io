@@ -6,6 +6,13 @@ Formålet med prosjektet "sikkertprivatliv" er å gi gode råd og alternativer o
 Prosjektet er basert på [privacytools.io](https://www.privacytools.io/) og selv vi benytter mye av deres ressurser så foretrakk jeg å lage en norsk alternativ fremfor å lage en direkte oversettelse.
 
 
+## [Meldingstjenester](meldingstjenester.md)
+
+Meldingstjenester er en viktig del av vår hverdag, men har du tenkt på hvor private disse samtaler er?  
+Messenger fra Facebook eller Duo fra Google, tar de vare på ditt privatliv?  
+I denne seksjonen finne du tips applikasjoner som støtter ende-til-ende kryptering. Dette betyr at meldingene kun kan sees av sender og mottaker.
+
+
 
 ### Ingen reklame, ingen Google Analytics.
 Men vi bruker Cloudflare, siden Github Pages ikke støtter https fra egne domener må vi benytte Cloudflare.
