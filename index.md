@@ -23,7 +23,10 @@ Slikt som det er med meldinger, vidoe og tale blitt viktige elementer i vårt hv
 
 ## ![mail](img/icons/mail.svg) [Epost](epost.md)
 
-## ![file](img/icons/file.svg) Fil deling
+
+## ![call](img/icons/shield.svg) ![video](img/icons/shield.svg) Virtuell privat nettverk (VPN)
+
+## ![file](img/icons/file.svg) [Fil deling](fildeling.md)
 
 
 
