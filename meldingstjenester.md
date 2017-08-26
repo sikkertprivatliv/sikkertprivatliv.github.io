@@ -19,7 +19,7 @@ For å lage en konto så krever den ditt telefonnummer.
 </a>
   </td>
    <td>
-   OS: iOS, Android, Web    
+   OS: iOS, Android, Chrome applikasjon    
 
    </td>
  </tr>
@@ -39,7 +39,7 @@ Om du lager konto fra nettsiden så krever ikke Wire ditt telefonnummer, kun epo
 </a>
   </td>
    <td>
-   OS: iOS, Android, Web    
+   OS: iOS, Android, Windows, macOS, Web    
 
    </td>
  </tr>
@@ -58,7 +58,7 @@ Crypho er et norsk utviklet verktøy, egentlig ment som et sikker samhandlingsve
 </a>
   </td>
    <td>
-   OS: iOS, Android, Web    
+   OS: iOS, Android, Windows, macOS, Web    
    </td>
  </tr>
 </table>
