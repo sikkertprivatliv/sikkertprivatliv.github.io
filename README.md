@@ -1,5 +1,5 @@
 Formålet med prosjektet "sikkertprivatliv" er å gi gode råd og alternativer om hvordan man kan bedre ta vare på sitt privatliv på nett.  
-Prosjektet er basert på privacytools.io og prosjektet benytter mye av deres ressurser, men fremfor å lage en direkte oversettelse er det blitt valgt å lage et alternativ med fokus på Norge.
+Prosjektet er basert på [privacytools.io](https://www.privacytools.io/) og selv vi benytter mye av deres ressurser så foretrakk jeg å lage en norsk alternativ fremfor å lage en direkte oversettelse.
 
 
 ## Vennligst les dette før du bidrar  
@@ -14,10 +14,17 @@ Vi ber om at du leser dette før du tenker på å bidra til prosjektet.
 Slikt som privacytools.io så foretrekkes det å holde antall verktøy nede fremfor å liste alle alternativer.  
 Hensiktet bak dette er å gi brukerne klare og gode alternativer, selv om dette betyr å utelate enkelte verktøy.  
 
-### Støtte sikkerprivatliv  
+### Støtte sikkertprivatliv  
 Enn så lenge trenger vi diskusjon rundt prosjektet og hjelp til å finne skrivefeil.
+
+### Hvem står bak prosjektet?  
+Det er et privat initiativ fra meg, Nelson Cheuque. Jeg har jobbet noen år innad sikkerhets-bransjen og får ofte spørsmål om hvordan man kan være "mer sikker". Mitt håp er at dette prosjektet vil hjelpe den vanlige brukeren å finne frem til gode tips på hvordan de kan sikre sitt privat liv.
+
+###Kontakt  
+![https://twitter.com/sikkerprivatliv](img/logos/twitter.png)
+
 
 ### Lisens  
 Dette verk er lisensiert under en Creative Commons Navngivelse 4.0 Internasjonal lisens.  
 Den fulle lisens teksten finner du [her](Lisens.txt)  
-![creativecommons](img/layout/creativecommons.png)
+![creativecommons](img/logos/creativecommons.png)
