@@ -3,10 +3,10 @@
 
 
 Formålet med prosjektet "sikkertprivatliv" er å gi gode råd og alternativer om hvordan man kan bedre ta vare på sitt privatliv på nett.  
-Prosjektet er basert på [privacytools.io](https://www.privacytools.io/) og selv vi benytter mye av deres ressurser så foretrakk jeg å lage en norsk alternativ fremfor å lage en direkte oversettelse.
+Prosjektet er basert på [privacytools.io](https://www.privacytools.io/) og selv vi benytter mye av deres ressurser så foretrakk jeg å lage en norsk alternativ fremfor å lage en direkte oversettelse.  
 Det jobbes fortsatt med siden og dermed vil noe av innholdet være mangelfull eller mangle. Men jeg jobber med saken!
 
-## [Meldingstjenester](meldingstjenester.md)
+## ![message](img/icons/message.svg)  [Meldingstjenester](meldingstjenester.md)
 
 Meldingstjenester er en viktig del av vår hverdag, men har du tenkt på hvor private disse samtaler er? Hva lagres? Hvor lagres den? Og hvordan er den beksyttet?    
 Enten det er WhatsApp & Messenger fra Facebook eller Duo fra Google, tar de vare på ditt privatliv? Eller sjekkes dine meldinger for å se hvordan disse selskaper kan servere "bedre" annonser til deg?  
@@ -14,8 +14,9 @@ Enten det er WhatsApp & Messenger fra Facebook eller Duo fra Google, tar de vare
 I denne seksjonen finne du tips applikasjoner som støtter ende-til-ende kryptering. Dette betyr at meldingene kun kan sees av sender og mottaker.
 
 
-## [Video og tale tjenester](video-tale.md)  
+## ![call](img/icons/call.svg) ![video](img/icons/video.svg)  [Video og tale tjenester](video-tale.md)  
 
+Slikt som det er med meldinger, vidoe og tale blitt viktige elementer i vårt hverdag. vi kan i dag holde kontakt kjente og kjære på en måte som for 10 år siden var utenkelig, samtidig må vi også her være oppmerksom på hva som er privat og ikke. For selv Skype fungerer veldig bra, er den ikke privat.  
 
 ## [Netlesere](nettlesere.md)
 
