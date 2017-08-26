@@ -53,7 +53,7 @@ Utviklet av Telenor Digital er den egentlig utviklet for å hurtig kunne lage et
 </a>
   </td>
    <td>
-   OS: Web    
+   OS: iOS, Web    
 
    </td>
  </tr>
