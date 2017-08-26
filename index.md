@@ -18,12 +18,14 @@ I denne seksjonen finne du tips applikasjoner som støtter ende-til-ende krypter
 
 Slikt som det er med meldinger, vidoe og tale blitt viktige elementer i vårt hverdag. vi kan i dag holde kontakt kjente og kjære på en måte som for 10 år siden var utenkelig, samtidig må vi også her være oppmerksom på hva som er privat og ikke. For selv Skype fungerer veldig bra, er den ikke privat.  
 
-## [Netlesere](nettlesere.md)
+## ![browser](img/icons/chrome.svg) [Netlesere](nettlesere.md)
 
 
-## [Epost](epost.md)
+## ![mail](img/icons/mail.svg) [Epost](epost.md)
 
-## Fil deling
+## ![file](img/icons/file.svg) Fil deling
+
+
 
 
 #### Ingen reklame, ingen Google Analytics.  
