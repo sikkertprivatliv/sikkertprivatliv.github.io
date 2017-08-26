@@ -20,5 +20,16 @@ Den fulle lisens teksten finner du [her](Lisens.txt)
 
 
 #### Kontakt
-<a href="https://twitter.com/sikkerprivatliv" >
-<img src="img/logos/twitter.png" alt="Twitter" height="50" width="50" /> </a>
+
+<table>
+ <tr>
+   <td>
+   <a href="https://twitter.com/sikkerprivatliv" >
+   <img src="img/logos/twitter.png" alt="Twitter" height="50" width="50" /> </a>
+   </td>
+   <td>
+   <a href="https://github.com/sikkertprivatliv/sikkertprivatliv.github.io" >
+   <img src="img/logos/github.png" alt="Twitter" height="50" width="50" /> </a>
+   </td>
+ </tr>
+</table>
