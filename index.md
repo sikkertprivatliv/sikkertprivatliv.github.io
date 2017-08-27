@@ -1,4 +1,3 @@
-
 # Velkommen til et sikrere privatliv
 
 
@@ -42,7 +41,7 @@ Du er også velkommen til å komme med forslag om hvordan nettsiden burde forbed
 
 #### Lisens  
 Dette verk er lisensiert under en Creative Commons Navngivelse 4.0 Internasjonal lisens.  
-Den fulle lisens teksten finner du [her](Lisens.txt)  
+Den fulle lisens teksten finner du [her](Lisens.md)  
 ![creativecommons](img/logos/creativecommons.png)
 
 
