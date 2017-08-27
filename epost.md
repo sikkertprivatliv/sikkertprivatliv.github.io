@@ -25,7 +25,7 @@ Her finner du en liste over leverandører som tilbyr sikre epost løsninger.
 						<img src="img/epost/protonmail.gif" width="200" height="70">
 					</td>
 					<td>
-						<a data-toggle="tooltip" data-placement="bottom" data-original-title="https://www.protonmail.com" href="https://www.protonmail.com"><img src="img/icons/www.png" width="35"></img></a>
+						<a data-toggle="tooltip" data-placement="bottom" data-original-title="https://www.protonmail.com" href="https://www.protonmail.com"><img src="img/icons/www.png" width="35" /></a>
 							</td>
 					<td>Gratis</td>
           <td>500 MB</td>
@@ -37,7 +37,7 @@ Her finner du en liste over leverandører som tilbyr sikre epost løsninger.
             <img src="img/epost/disroot.gif" width="200" height="70">
           </td>
           <td>
-            <a data-toggle="tooltip" data-placement="bottom" data-original-title="https://disroot.org" href="https://disroot.org"><img src="img/icons/www.png" width="35"></img></a>
+            <a data-toggle="tooltip" data-placement="bottom" data-original-title="https://disroot.org" href="https://disroot.org"><img src="img/icons/www.png" width="35" /></a>
               </td>
           <td>Gratis</td>
           <td>4 GB</td>
@@ -49,7 +49,7 @@ Her finner du en liste over leverandører som tilbyr sikre epost løsninger.
             <img src="img/epost/tutanota.gif" width="200" height="70">
           </td>
           <td>
-            <a data-toggle="tooltip" data-placement="bottom" data-original-title="https://www.tutanota.com" href="https://www.tutanota.com"><img src="img/icons/www.png" width="35"></img></a>
+            <a data-toggle="tooltip" data-placement="bottom" data-original-title="https://www.tutanota.com" href="https://www.tutanota.com"><img src="img/icons/www.png" width="35" /></a>
               </td>
           <td>Gratis</td>
           <td>1 GB</td>
