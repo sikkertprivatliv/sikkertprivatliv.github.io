@@ -1,8 +1,10 @@
 # Virtuelt privat datanettverk
 
 En [virtuelt privat datanettverk](https://Nei.wikipedia.org/wiki/Virtual_private_network) (VPN) skaper en tunnel mellom din datamaskin og tilbyderens nettverk. Med kryptering gjør forbindelsen privat slikt trafikken er skjult fra andre. Dette er viktig når man er tilkoblet offentlige nettverk (tenk den åpne wifi på kaffeen) der trafikken kan insipiseres eller manipuleres av uvedkommende.  
-Samtidig må man stole på leverandøren av VPN da den kan se all trafikken og vil ikke benytte seg av informasjonen til andre formål. Et eksempel på dette er Hotspot Shield som hadde et samarbeid med anNeinsører.  
+Samtidig må man stole på leverandøren av VPN da den kan se all trafikken og vil ikke benytte seg av informasjonen til andre formål. Et eksempel på dette er Hotspot Shield som hadde et samarbeid med annonsører.  
 Listen under er VPN tilbydere som respekterer brukerens privatliv.
+
+*Grunnlaget for listen er privacytoolsIO sin VPN liste*
 
 <table>
         <thead>
@@ -113,7 +115,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
             <td><span class="label label-success">Ja</span></td>
             <td>475</td>
             <td><span class="flag-icon flag-icon-pa"></span> Panama</td>
-            <td><a href="https://Neirdvpn.com/">NeirdVPN.com</a></td>
+            <td><a href="https://Nordvpn.com/">NordVPN.com</a></td>
           </tr>
           <tr>
             <td data-value="OVPN.com">
