@@ -30,7 +30,7 @@ Heldigvis finnes det gode gratis og betalte løsninger som ikke vil selge din in
 ## ![vpn](img/icons/shield.svg)  [Virtuelt privat datanettverk (VPN)](vpn.md)  
 En [virtuelt privat datanettverk](https://no.wikipedia.org/wiki/Virtual_private_network) (VPN) skaper en tunnel mellom din datamaskin og tilbyderens nettverk. Med kryptering gjør forbindelsen privat slikt trafikken er skjult fra andre. Dette er viktig når man er tilkoblet offentlige nettverk (tenk den åpne wifi på kaféen) der trafikken kan inspiseres eller manipuleres av uvedkommende. Her kan du få en liste over tilbydere som vil respektere ditt privatliv.  
 
-## ![file](img/icons/file.svg) [Fil deling](fildeling.md)  
+## ![file](img/icons/file.svg) [Fildeling](fildeling.md)  
 Enkelte ganger må man dele filer med hverandre, enten det er å sende et bilde fra festivalen eller et viktig dokument. Felles er ønsket om at kommunikasjonen ikke kommer på avveie slikt at uvedkommende kan se det.  
 Ville det ikke være greit å ha noen gode alternativer til de etablerte tjenester?
 

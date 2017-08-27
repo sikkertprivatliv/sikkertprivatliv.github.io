@@ -1,4 +1,4 @@
-#Fil deling  
+#Fildeling  
 
 Fra tid til annen må man dele filer med hverandre.
 
