@@ -1,7 +1,7 @@
 # Virtuelt privat datanettverk
 
-En [virtuelt privat datanettverk](https://no.wikipedia.org/wiki/Virtual_private_network) (VPN) skaper en tunnel mellom din datamaskin og tilbyderens nettverk. Med kryptering gjør forbindelsen privat slikt trafikken er skjult fra andre. Dette er viktig når man er tilkoblet offentlige nettverk (tenk den åpne wifi på kaffeen) der trafikken kan insipiseres eller manipuleres av uvedkommende.  
-Samtidig må man stole på leverandøren av VPN da den kan se all trafikken og vil ikke benytte seg av informasjonen til andre formål. Et eksempel på dette er Hotspot Shield som hadde et samarbeid med annonsører.  
+En [virtuelt privat datanettverk](https://Nei.wikipedia.org/wiki/Virtual_private_network) (VPN) skaper en tunnel mellom din datamaskin og tilbyderens nettverk. Med kryptering gjør forbindelsen privat slikt trafikken er skjult fra andre. Dette er viktig når man er tilkoblet offentlige nettverk (tenk den åpne wifi på kaffeen) der trafikken kan insipiseres eller manipuleres av uvedkommende.  
+Samtidig må man stole på leverandøren av VPN da den kan se all trafikken og vil ikke benytte seg av informasjonen til andre formål. Et eksempel på dette er Hotspot Shield som hadde et samarbeid med anNeinsører.  
 Listen under er VPN tilbydere som respekterer brukerens privatliv.
 
 <table>
@@ -20,7 +20,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
             <td data-value="AirVPN">
               <a href="https://airvpn.org/"><img src="img/vpn/AirVPN.gif" width="200" height="70"></a></td>
             <td>54 EUR</td>
-            <td><span class="label label-success">Yes</span></td>
+            <td><span class="label label-success">Ja</span></td>
             <td>162</td>
             <td>Italia</td>
             <td><a href="https://airvpn.org/">AirVPN.org</a></td>
@@ -30,7 +30,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://www.azirevpn.com/"><img src="img/vpn/AzireVPN.gif" width="200" height="70"></a>
             </td>
             <td>45 EUR</td>
-            <td><span class="label label-warning">No</span></td>
+            <td><span class="label label-warning">Nei</span></td>
             <td>5</td>
             <td>Sverige</td>
             <td><a href="https://www.azirevpn.com/">AzireVPN.com</a></td>
@@ -40,7 +40,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://www.blackvpn.com/"><img src="img/vpn/blackVPN.gif" width="200" height="70"></a>
             </td>
             <td>99 EUR</td>
-            <td><span class="label label-success">Yes</span></td>
+            <td><span class="label label-success">Ja</span></td>
             <td>27</td>
             <td> Hong Kong</td>
             <td><a href="https://www.blackvpn.com/">blackVPN.com</a></td>
@@ -50,7 +50,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://cryptostorm.is/"><img src="img/vpn/Cryptostorm.gif" width="200" height="70"></a>
             </td>
             <td>52 USD</td>
-            <td><span class="label label-success">Yes</span></td>
+            <td><span class="label label-success">Ja</span></td>
             <td>18</td>
             <td>Island</td>
             <td><a href="https://cryptostorm.is/">Cryptostorm.is</a></td>
@@ -60,7 +60,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://www.expressvpn.com/"><img src="img/vpn/ExpressVPN.gif" width="200" height="70"></a>
             </td>
             <td>99.95 USD</td>
-            <td><span class="label label-success">Yes</span></td>
+            <td><span class="label label-success">Ja</span></td>
             <td>145</td>
             <td>British Virgin Islands</td>
             <td><a href="https://www.expressvpn.com/">ExpressVPN.com</a></td>
@@ -70,7 +70,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://www.frootvpn.com/"><img src="img/vpn/FrootVPN.gif" width="200" height="70"></a>
             </td>
             <td>35.88 USD</td>
-            <td><span class="label label-warning">No</span></td>
+            <td><span class="label label-warning">Nei</span></td>
             <td>27</td>
             <td>Sverige</td>
             <td><a href="https://www.frootvpn.com/">FrootVPN.com</a></td>
@@ -80,7 +80,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://hide.me/"><img src="img/vpn/hide.me.gif" width="200" height="70"></a>
             </td>
             <td>65.04 USD</td>
-            <td><span class="label label-success">Yes</span></td>
+            <td><span class="label label-success">Ja</span></td>
             <td>88</td>
             <td><span class="flag-icon flag-icon-my"></span> Malaysia</td>
             <td><a href="https://hide.me/">hide.me</a></td>
@@ -90,7 +90,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://www.ivpn.net/"><img src="img/vpn/IVPN.gif" width="200" height="70"></a>
             </td>
             <td>99.96 USD</td>
-            <td><span class="label label-success">Yes</span></td>
+            <td><span class="label label-success">Ja</span></td>
             <td>21</td>
             <td><span class="flag-icon flag-icon-gi"></span> Gibraltar</td>
             <td><a href="https://www.ivpn.net/">IVPN.net</a></td>
@@ -100,27 +100,27 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://mullvad.net/"><img src="img/vpn/Mullvad.gif" width="200" height="70"></a>
             </td>
             <td>60 EUR</td>
-            <td><span class="label label-success">Yes</span></td>
+            <td><span class="label label-success">Ja</span></td>
             <td>52</td>
             <td>Sverige</td>
             <td><a href="https://mullvad.net/">Mullvad.net</a></td>
           </tr>
           <tr>
-            <td data-value="NordVPN">
-              <a href="https://nordvpn.com/"><img src="img/vpn/NordVPN.gif" width="200" height="70"></a>
+            <td data-value="NeirdVPN">
+              <a href="https://Neirdvpn.com/"><img src="img/vpn/NeirdVPN.gif" width="200" height="70"></a>
             </td>
             <td>69 USD</td>
-            <td><span class="label label-success">Yes</span></td>
+            <td><span class="label label-success">Ja</span></td>
             <td>475</td>
             <td><span class="flag-icon flag-icon-pa"></span> Panama</td>
-            <td><a href="https://nordvpn.com/">NordVPN.com</a></td>
+            <td><a href="https://Neirdvpn.com/">NeirdVPN.com</a></td>
           </tr>
           <tr>
             <td data-value="OVPN.com">
               <a href="https://www.ovpn.com/"><img src="img/vpn/OVPN.gif" width="200" height="70"></a>
             </td>
             <td>84 USD</td>
-            <td><span class="label label-success">Yes</span></td>
+            <td><span class="label label-success">Ja</span></td>
             <td>36</td>
             <td>Sverige</td>
             <td><a href="https://www.ovpn.com/">OVPN.com</a></td>
@@ -130,7 +130,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://www.perfect-privacy.com/"><img src="img/vpn/Perfect-Privacy.gif" width="200" height="70"></a>
             </td>
             <td>124.95 EUR</td>
-            <td><span class="label label-warning">No</span></td>
+            <td><span class="label label-warning">Nei</span></td>
             <td>41</td>
             <td><span class="flag-icon flag-icon-pa"></span> Panama</td>
             <td><a href="https://www.perfect-privacy.com/">Perfect-Privacy.com</a></td>
@@ -140,7 +140,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
                                  <a href="https://protonvpn.com/"><img src="img/vpn/ProtonVPN.png" width="200" height="70"></a     >
                              </td>
                              <td>96 USD</td>
-                             <td><span class="label label-success">Yes</span></td>
+                             <td><span class="label label-success">Ja</span></td>
                              <td>112</td>
                              <td>Sveits</td>
                              <td><a href="https://protonvpn.com/">ProtonVPN.com</a></td>
@@ -150,7 +150,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://proxy.sh/"><img src="img/vpn/Proxy.sh.gif" width="200" height="70"></a>
             </td>
             <td>90 USD</td>
-            <td><span class="label label-warning">No</span></td>
+            <td><span class="label label-warning">Nei</span></td>
             <td>300</td>
             <td>Seychellene</td>
             <td><a href="https://proxy.sh/">Proxy.sh</a></td>
@@ -160,7 +160,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://trust.zone/"><img src="img/vpn/Trust.Zone.gif" width="200" height="70"></a>
             </td>
             <td>39.95 USD</td>
-            <td><span class="label label-success">Yes</span></td>
+            <td><span class="label label-success">Ja</span></td>
             <td>48</td>
             <td>Seychellene</td>
             <td><a href="https://trust.zone/">Trust.Zone</a></td>
@@ -170,7 +170,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://vpn.ht/"><img src="img/vpn/VPN.ht.gif" width="200" height="70"></a>
             </td>
             <td >39.99 USD</td>
-            <td><span class="label label-warning">No</span></td>
+            <td><span class="label label-warning">Nei</span></td>
             <td>122</td>
             <td><span class="flag-icon flag-icon-hk"></span> Hong Kong</td>
             <td><a href="https://vpn.ht/">VPN.ht</a></td>
@@ -180,7 +180,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://vpntunnel.com/"><img src="img/vpn/VPNTunnel.gif" width="200" height="70"></a>
             </td>
             <td>35.88 USD</td>
-            <td><span class="label label-warning">No</span></td>
+            <td><span class="label label-warning">Nei</span></td>
             <td>80</td>
             <td>Seychellene</td>
             <td><a href="https://vpntunnel.com/">VPNTunnel.com</a></td>

@@ -1,4 +1,4 @@
-Formålet med prosjektet "sikkertprivatliv" er å gi gode råd og alternativer om hvordan man kan bedre ta vare på sitt privatliv på nett.  
+Formålet med prosjektet #sikkertprivatliv er å gi gode råd og alternativer om hvordan man kan bedre ta vare på sitt privatliv på nett.  
 Prosjektet er basert på [privacytools.io](https://www.privacytools.io/) og selv vi benytter mye av deres ressurser så foretrakk jeg å lage en norsk alternativ fremfor å lage en direkte oversettelse.
 
 
