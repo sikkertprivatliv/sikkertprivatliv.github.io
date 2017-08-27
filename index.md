@@ -24,11 +24,12 @@ Slikt som det er med meldinger, vidoe og tale blitt viktige elementer i vårt hv
 ## ![mail](img/icons/mail.svg) [Epost](epost.md)
 
 
-## ![vpn](img/icons/shield.svg)  [Virtuell privat nettverk (VPN)](vpn.md)
-
-## ![file](img/icons/file.svg) [Fil deling](fildeling.md)
+## ![vpn](img/icons/shield.svg)  [Virtuelt privat datanettverk (VPN)](vpn.md)
 
 
+## ![file](img/icons/file.svg) [Fil deling](fildeling.md)  
+Enkelte ganger må man dele filer med hverandre, enten det er å sende et bilde fra festivalen eller et viktig dokument. Felles er ønsket om at kommunikasjonen ikke kommer på avveie slikt at uvedkommende kan se det.  
+Ville det ikke være greit å ha noen gode alternativer til de etablerte tjenester?
 
 
 #### Ingen reklame, ingen Google Analytics.  

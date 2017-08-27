@@ -41,9 +41,8 @@ Om du lager konto fra nettsiden så krever ikke Wire ditt telefonnummer, kun epo
  </tr>
 </table>
 
-### Appear.in
-Utviklet av Telenor Digital er den egentlig utviklet for å hurtig kunne lage et virtuell møterom. Men fungerer også utmerket for video samtaler.
-
+### Appear.in  
+Norskutviklet tjeneste, i utgangspunktet er den egentlig en konferanse / virtuell møterom tjeneste. Men tjenesten er gratis og krever ikke registrering og utgjør en veldig god alternativ til Skype.
 
 <table>
  <tr>
