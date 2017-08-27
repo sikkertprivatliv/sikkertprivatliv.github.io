@@ -2,7 +2,7 @@
 # Velkommen til et sikrere privatliv
 
 
-Formålet med prosjektet "sikkertprivatliv" er å gi gode råd og alternativer om hvordan man kan bedre ta vare på sitt privatliv på nett.  
+Formålet med prosjektet #sikkertprivatliv er å gi gode råd og alternativer om hvordan man kan bedre ta vare på sitt privatliv på nett.  
 Prosjektet er basert på [privacytools.io](https://www.privacytools.io/) og selv vi benytter mye av deres ressurser så foretrakk jeg å lage en norsk alternativ fremfor å lage en direkte oversettelse.  
 Det jobbes fortsatt med siden og dermed vil noe av innholdet være mangelfull eller mangle. Men jeg jobber med saken!
 
@@ -24,7 +24,7 @@ Slikt som det er med meldinger, vidoe og tale blitt viktige elementer i vårt hv
 ## ![mail](img/icons/mail.svg) [Epost](epost.md)
 
 
-## ![vpn](img/icons/shield.svg)  Virtuell privat nettverk (VPN)
+## ![vpn](img/icons/shield.svg)  [Virtuell privat nettverk (VPN)](vpn.md)
 
 ## ![file](img/icons/file.svg) [Fil deling](fildeling.md)
 
