@@ -43,7 +43,6 @@ Er et åpent kildekode program for deling av filer, den benytter seg av TOR-nett
 Norsk utviklet tjeneste som fungerer på samme måte som Dropbox, men den er underlagt norsk lovgiving da dataene er lagret i Norge (eller land med liknende lovgiving).  
 Det negative med tjenesten så langt har vært en mangelfull implementering av 2-faktor-autentisering (pr. august 2017) og setningen "eller i et land med liknende eller enda strengere personvernlovgivning" i personverngarantien da de ikke spesifiseres om dette er gjort og i hvilken land det gjelder.  
 
-OS: Windows, macOS, Android, iOS, Web
 <table>
  <tr>
    <td>
