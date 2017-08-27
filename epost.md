@@ -60,7 +60,7 @@ Her finner du en liste over leverandører som tilbyr sikre epost løsninger.
           <img src="img/epost/runbox.gif" width="200" height="70">
         </td>
         <td>
-          <a data-toggle="tooltip" data-placement="bottom" data-original-title="https://runbox.com/" href="https://runbox.com/"><img src="img/icons/www.png" width="35"></img></a>
+          <a data-toggle="tooltip" data-placement="bottom" data-original-title="https://runbox.com/" href="https://runbox.com/"><img src="img/icons/www.png" width="35" /></a>
             </td>
         <td>14.95 EUR</td>
         <td>1 GB</td>
