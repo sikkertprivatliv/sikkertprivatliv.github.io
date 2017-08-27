@@ -108,8 +108,8 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
             <td><a href="https://mullvad.net/">Mullvad.net</a></td>
           </tr>
           <tr>
-            <td data-value="NeirdVPN">
-              <a href="https://Neirdvpn.com/"><img src="img/vpn/NeirdVPN.gif" width="200" height="70"></a>
+            <td data-value="NordVPN">
+              <a href="https://Nordvpn.com/"><img src="img/vpn/NordVPN.gif" width="200" height="70"></a>
             </td>
             <td>69 USD</td>
             <td><span class="label label-success">Ja</span></td>
