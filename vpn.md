@@ -8,7 +8,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
         <thead>
           <tr>
             <th>Tilbyder</th>
-            <th min-width:100px>Årlig pris</th>
+            <th min-width:150px>Årlig pris</th>
             <th>Gratis prøveperiode</th>
             <th title="Number of Servers">Antall servere</th>
             <th>Jurisdiksjon</th>
