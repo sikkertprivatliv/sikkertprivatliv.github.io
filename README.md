@@ -14,11 +14,11 @@ Vi ber om at du leser dette før du tenker på å bidra til prosjektet.
 Slikt som privacytools.io så foretrekkes det å holde antall verktøy nede fremfor å liste alle alternativer.  
 Hensiktet bak dette er å gi brukerne klare og gode alternativer, selv om dette betyr å utelate enkelte verktøy.  
 
-### Støtte sikkertprivatliv  
-Enn så lenge trenger vi diskusjon rundt prosjektet og hjelp til å finne skrivefeil.
+### Støtte #sikkertprivatliv  
+Du kan sende inn forslag til endringer, eller du kan utbedre deler av nettsiden. Tar gjerne i mot alle forslag og tilbakemeldinger.
 
 ### Hvem står bak prosjektet?  
-Det er et privat initiativ fra meg, Nelson Cheuque. Jeg har jobbet noen år innad sikkerhets-bransjen og får ofte spørsmål om hvordan man kan være "mer sikker". Mitt håp er at dette prosjektet vil hjelpe den vanlige brukeren å finne frem til gode tips på hvordan de kan sikre sitt privat liv.
+Det er et privat initiativ fra meg, [Nelson Cheuque](https://github.com/nechered). Jeg har jobbet noen år innen sikkerhets-bransjen og får ofte spørsmål om hvordan man kan være "mer sikker". Mitt håp er at dette prosjektet vil hjelpe den vanlige brukeren å finne frem til gode tips på hvordan de kan sikre sitt private liv.
 
 ### Kontakt  
 <a href="https://twitter.com/sikkerprivatliv/" rel="some text">![Twitter](img/logos/twitter.png)</a>
