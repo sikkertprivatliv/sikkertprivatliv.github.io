@@ -20,8 +20,16 @@ Du kan sende inn forslag til endringer, eller du kan utbedre deler av nettsiden.
 ### Hvem står bak prosjektet?  
 Det er et privat initiativ fra meg, [Nelson Cheuque](https://github.com/nechered). Jeg har jobbet noen år innen sikkerhets-bransjen og får ofte spørsmål om hvordan man kan være "mer sikker". Mitt håp er at dette prosjektet vil hjelpe den vanlige brukeren å finne frem til gode tips på hvordan de kan sikre sitt private liv.
 
+### Bridragsytere
+
+[atluxity](https://github.com/atluxity)  
+[chrizmo](https://github.com/chrizmo)  
+
+
 ### Kontakt  
-<a href="https://twitter.com/sikkerprivatliv/" rel="some text">![Twitter](img/logos/twitter.png)</a>
+<a href="https://twitter.com/sikkerprivatliv/">
+<img src="img/logos/twitter.png" alt="Twitter" height="60" width="60" />
+</a>
 
 
 ### Lisens  

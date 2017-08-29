@@ -15,7 +15,7 @@ For å lage en konto så krever den ditt telefonnummer.
  <tr>
    <td>
    <a href="https://signal.org/" >
-<img src="img/messaging/Open-Whisper-Systems.png" alt="Signal" height="50" width="50" />
+<img src="img/meldinger/Open-Whisper-Systems.png" alt="Signal" height="60" width="60" />
 </a>
   </td>
    <td>
@@ -35,12 +35,11 @@ Om du lager konto fra nettsiden så krever ikke Wire ditt telefonnummer, kun epo
  <tr>
    <td>
     <a href="https://get.wire.com/" >
-<img src="img/messaging/wire.png" alt="Wire" height="50" width="50" />
+<img src="img/meldinger/wire.png" alt="Wire" height="60" width="60" />
 </a>
   </td>
    <td>
    OS: iOS, Android, Windows, macOS, Web    
-
    </td>
  </tr>
 </table>
@@ -54,7 +53,7 @@ Crypho er et norsk utviklet verktøy, egentlig ment som et sikker samhandlingsve
  <tr>
    <td>
     <a href="https://www.crypho.no/" >
-<img src="img/messaging/crypho.png" alt="Crypho" height="50" width="50" />
+<img src="img/meldinger/crypho.png" alt="Crypho" height="60" width="60" />
 </a>
   </td>
    <td>
