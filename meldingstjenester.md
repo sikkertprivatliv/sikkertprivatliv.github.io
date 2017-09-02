@@ -1,14 +1,15 @@
 # Sikre meldingstjenester  
 
 Meldingstjenester er en viktig del av vår hverdag, men har du tenkt på hvor private disse samtaler er?  
-Messenger fra Facebook eller Duo fra Google, tar de vare på ditt privatliv?  
-I denne seksjonen finne du tips applikasjoner som støtter ende-til-ende kryptering. Dette betyr at meldingene kun kan sees av sender og mottaker.
+Messenger fra Facebook eller Allo fra Google, tar de vare på ditt privatliv?  
+I denne seksjonen finne du tips applikasjoner som støtter krypterte meldinger. Dette betyr at meldingene kun kan sees av sender og mottaker (heller ikke av selskapet bak applikasjonen).  
 
 
 ### Signal
 
-Signal er utviklet av Open Whisper Systems og og i tillegg til å støtte ende-til-ende krypterte meldinger, støtter den også video og tale.  
-For å lage en konto så krever den ditt telefonnummer.
+Signal er utviklet av Open Whisper Systems og og i tillegg til å støtte krypterte meldinger, støtter den også video og tale.
+Er den mest kjente applikasjonen og har blitt anbefalt av blant annet Edward Snowden. Brukes av veldig mange journalister.  
+*For å lage en konto så krever den ditt telefonnummer.*
 
 
 <table>
@@ -20,15 +21,14 @@ For å lage en konto så krever den ditt telefonnummer.
   </td>
    <td>
    OS: iOS, Android, Chrome applikasjon    
-
    </td>
  </tr>
 </table>
 
 
 ### Wire
-Er ut viklet av Wire Swiss GmbH. og i tillegg til å støtte ende-til-ende krypterte meldinger, støtter den også video og tale.  
-Om du lager konto fra nettsiden så krever ikke Wire ditt telefonnummer, kun epost.
+Er ut viklet av Wire Swiss GmbH. og i tillegg til å støtte krypterte meldinger, støtter den også video og tale. Wire har også har også desktop applikasjoner i tillegg til mobil applikasjoner.   
+*Om du lager konto fra nettsiden så krever ikke Wire ditt telefonnummer, kun epost.*
 
 
 <table>
@@ -45,9 +45,8 @@ Om du lager konto fra nettsiden så krever ikke Wire ditt telefonnummer, kun epo
 </table>
 
 
-### Crypho
-
-Crypho er et norsk utviklet verktøy, egentlig ment som et sikker samhandlingsverktøy. Men den kan veldig enkelt benyttes til å sende meldinger og filer mellom brukere. Den bruker ende-til-ende kryptering og hostet i Norge.
+### Crypho  
+Crypho er basert og utviklet i Norge. Den kan benyttes til å sende krypterte meldinger og filer, du kan også opprette grupper. Den har også desktop applikasjoner.  
 
 <table>
  <tr>

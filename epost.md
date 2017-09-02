@@ -1,12 +1,11 @@
 # Epost tjenester
 
 Noensinne lurt på hvorfor Gmail er gratis? Eller Outlook?  
-Vi mottar i dag mye sensitivt epost, enten det er snakk om finansiell informasjon eller annen informasjon av privat karakter. Vår innboks inneholder veldig mye informasjon om hvem vi er.  
-Så er det greit at leverandøren leser alt? Ville du ha åpnet alle brev du fikk i postkassen og visst de til postmanen?  
+Vi mottar i dag mye informasjon gjennom epost som de fleste av oss ville anse som privat, se over din innboks og spør deg selv "er jeg komfortabel med å visse all denne informasjonen til mine venner?". Vår innboks inneholder veldig mye informasjon om hvem vi er.  
+Er epostene du har i din innboks nå noe du er komfortabel med at alle på jobben visste om? Så er det greit at din epost leverandør leser alt?  
+Epost bør beskyttes, den bør behandles av en leverandør som ikke vil tjene penger på informasjonen som finnes der.
 
-Epost bør beskyttes, den bør behandles av en leverandør som ikke vil tjene penger på vår informasjon.
-
-Her finner du en liste over leverandører som tilbyr sikre epost løsninger.
+Her finner du en liste over leverandører som tilbyr private epost løsninger.
 
 <table>
         <thead>

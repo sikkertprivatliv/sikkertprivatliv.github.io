@@ -20,7 +20,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
         <tbody>
           <tr>
             <td data-value="AirVPN">
-              <a href="https://airvpn.org/"><img src="img/vpn/AirVPN.gif" width="200" height="70"></a></td>
+              <a href="https://airvpn.org/"><img src="img/vpn/AirVPN.gif" width="100" height="35"></a></td>
             <td>54 EUR</td>
             <td><span class="label label-success">Ja</span></td>
             <td>162</td>
@@ -29,7 +29,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="AzireVPN">
-              <a href="https://www.azirevpn.com/"><img src="img/vpn/AzireVPN.gif" width="200" height="70"></a>
+              <a href="https://www.azirevpn.com/"><img src="img/vpn/AzireVPN.gif" width="100" height="35"></a>
             </td>
             <td>45 EUR</td>
             <td><span class="label label-warning">Nei</span></td>
@@ -39,7 +39,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="blackVPN">
-              <a href="https://www.blackvpn.com/"><img src="img/vpn/blackVPN.gif" width="200" height="70"></a>
+              <a href="https://www.blackvpn.com/"><img src="img/vpn/blackVPN.gif" width="100" height="35"></a>
             </td>
             <td>99 EUR</td>
             <td><span class="label label-success">Ja</span></td>
@@ -49,7 +49,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="Cryptostorm">
-              <a href="https://cryptostorm.is/"><img src="img/vpn/Cryptostorm.gif" width="200" height="70"></a>
+              <a href="https://cryptostorm.is/"><img src="img/vpn/Cryptostorm.gif" width="100" height="35"></a>
             </td>
             <td>52 USD</td>
             <td><span class="label label-success">Ja</span></td>
@@ -59,7 +59,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="ExpressVPN">
-              <a href="https://www.expressvpn.com/"><img src="img/vpn/ExpressVPN.gif" width="200" height="70"></a>
+              <a href="https://www.expressvpn.com/"><img src="img/vpn/ExpressVPN.gif" width="100" height="35"></a>
             </td>
             <td>99.95 USD</td>
             <td><span class="label label-success">Ja</span></td>
@@ -69,7 +69,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="FrootVPN">
-              <a href="https://www.frootvpn.com/"><img src="img/vpn/FrootVPN.gif" width="200" height="70"></a>
+              <a href="https://www.frootvpn.com/"><img src="img/vpn/FrootVPN.gif" width="100" height="35"></a>
             </td>
             <td>35.88 USD</td>
             <td><span class="label label-warning">Nei</span></td>
@@ -79,7 +79,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="hide.me">
-              <a href="https://hide.me/"><img src="img/vpn/hide.me.gif" width="200" height="70"></a>
+              <a href="https://hide.me/"><img src="img/vpn/hide.me.gif" width="100" height="35"></a>
             </td>
             <td>65.04 USD</td>
             <td><span class="label label-success">Ja</span></td>
@@ -89,7 +89,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="IVPN">
-              <a href="https://www.ivpn.net/"><img src="img/vpn/IVPN.gif" width="200" height="70"></a>
+              <a href="https://www.ivpn.net/"><img src="img/vpn/IVPN.gif" width="100" height="35"></a>
             </td>
             <td>99.96 USD</td>
             <td><span class="label label-success">Ja</span></td>
@@ -99,7 +99,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="Mullvad">
-              <a href="https://mullvad.net/"><img src="img/vpn/Mullvad.gif" width="200" height="70"></a>
+              <a href="https://mullvad.net/"><img src="img/vpn/Mullvad.gif" width="100" height="35"></a>
             </td>
             <td>60 EUR</td>
             <td><span class="label label-success">Ja</span></td>
@@ -109,7 +109,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="NordVPN">
-              <a href="https://Nordvpn.com/"><img src="img/vpn/NordVPN.gif" width="200" height="70"></a>
+              <a href="https://Nordvpn.com/"><img src="img/vpn/NordVPN.gif" width="100" height="35"></a>
             </td>
             <td>69 USD</td>
             <td><span class="label label-success">Ja</span></td>
@@ -119,7 +119,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="OVPN.com">
-              <a href="https://www.ovpn.com/"><img src="img/vpn/OVPN.gif" width="200" height="70"></a>
+              <a href="https://www.ovpn.com/"><img src="img/vpn/OVPN.gif" width="100" height="35"></a>
             </td>
             <td>84 USD</td>
             <td><span class="label label-success">Ja</span></td>
@@ -129,7 +129,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="Perfect Privacy">
-              <a href="https://www.perfect-privacy.com/"><img src="img/vpn/Perfect-Privacy.gif" width="200" height="70"></a>
+              <a href="https://www.perfect-privacy.com/"><img src="img/vpn/Perfect-Privacy.gif" width="100" height="35"></a>
             </td>
             <td>124.95 EUR</td>
             <td><span class="label label-warning">Nei</span></td>
@@ -139,7 +139,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
                         <tr>
                              <td data-value="ProtonVPN">
-                                 <a href="https://protonvpn.com/"><img src="img/vpn/ProtonVPN.png" width="200" height="70"></a     >
+                                 <a href="https://protonvpn.com/"><img src="img/vpn/ProtonVPN.png" width="100" height="35"></a     >
                              </td>
                              <td>96 USD</td>
                              <td><span class="label label-success">Ja</span></td>
@@ -149,7 +149,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
                       </tr>
           <tr>
             <td data-value="Proxy.sh">
-              <a href="https://proxy.sh/"><img src="img/vpn/Proxy.sh.gif" width="200" height="70"></a>
+              <a href="https://proxy.sh/"><img src="img/vpn/Proxy.sh.gif" width="100" height="35"></a>
             </td>
             <td>90 USD</td>
             <td><span class="label label-warning">Nei</span></td>
@@ -159,7 +159,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="Trust.Zone">
-              <a href="https://trust.zone/"><img src="img/vpn/Trust.Zone.gif" width="200" height="70"></a>
+              <a href="https://trust.zone/"><img src="img/vpn/Trust.Zone.gif" width="100" height="35"></a>
             </td>
             <td>39.95 USD</td>
             <td><span class="label label-success">Ja</span></td>
@@ -169,7 +169,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="VPN.ht">
-              <a href="https://vpn.ht/"><img src="img/vpn/VPN.ht.gif" width="200" height="70"></a>
+              <a href="https://vpn.ht/"><img src="img/vpn/VPN.ht.gif" width="100" height="35"></a>
             </td>
             <td >39.99 USD</td>
             <td><span class="label label-warning">Nei</span></td>
@@ -179,7 +179,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
           <tr>
             <td data-value="VPNTunnel">
-              <a href="https://vpntunnel.com/"><img src="img/vpn/VPNTunnel.gif" width="200" height="70"></a>
+              <a href="https://vpntunnel.com/"><img src="img/vpn/VPNTunnel.gif" width="100" height="35"></a>
             </td>
             <td>35.88 USD</td>
             <td><span class="label label-warning">Nei</span></td>

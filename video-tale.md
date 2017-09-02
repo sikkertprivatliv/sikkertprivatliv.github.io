@@ -1,11 +1,12 @@
 # Sikre video og tale applikasjoner.
 
+Slikt som det er med [meldingstjenester](meldingstjenester.md) blir også dine samtaler og video-samtaler monitorert slikt at selskapene bak enkelte tjenester kan bedre servere annonser.  
+Samtidig kan applikasjonen lekke informasjon om deg, dette skjedde med Skype. Derfor er det viktig å velge en applikasjonen som vil bekytte ditt privatliv. 
 
-### Signal
 
+### Signal  
 Signal er utviklet av Open Whisper Systems og og i tillegg til å støtte ende-til-ende krypterte meldinger, støtter den også video og tale.  
-For å lage en konto så krever den ditt telefonnummer.
-
+*For å lage en konto så krever den ditt telefonnummer.*
 
 <table>
  <tr>
@@ -16,16 +17,14 @@ For å lage en konto så krever den ditt telefonnummer.
   </td>
    <td>
    OS: iOS, Android, Web    
-
    </td>
  </tr>
 </table>
 
 
 ### Wire
-Er ut viklet av Wire Swiss GmbH. og i tillegg til å støtte ende-til-ende krypterte meldinger, støtter den også video og tale.  
-Om du lager konto fra nettsiden så krever ikke Wire ditt telefonnummer, kun epost.
-
+Er ut viklet av Wire Swiss GmbH. og i tillegg til å støtte krypterterte meldinger, støtter den også video og tale.  
+*Om du lager konto fra nettsiden så krever ikke Wire ditt telefonnummer, kun epost.*
 
 <table>
  <tr>
@@ -36,7 +35,6 @@ Om du lager konto fra nettsiden så krever ikke Wire ditt telefonnummer, kun epo
   </td>
    <td>
    OS: iOS, Android, Web    
-
    </td>
  </tr>
 </table>
