@@ -11,9 +11,6 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
-    <nav class="main-nav">
-<a href="/">Hjem</a> | <a href="/om.md">Om prosjektet</a>
-</nav>
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
@@ -27,6 +24,9 @@
     </section>
 
     <section class="main-content">
+      <nav class="main-nav">
+  <a href="/">Hjem</a> | <a href="/om.md">Om prosjektet</a>
+  </nav>
       {{ content }}
 
       <footer class="site-footer">
