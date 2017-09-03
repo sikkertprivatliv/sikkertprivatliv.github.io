@@ -3,13 +3,19 @@
 
 @import "{{ site.theme }}";
 
-.main-nav a{
-}
 
+/* main title */
 .project-name a{
   color: white
 }
 
+
+/* VPN table */
 .label-warning {
   background-color: #f0ad4e;
+  color: white
+}
+.label-success {
+  background-color: green;
+  color: white
 }
