@@ -1,18 +1,26 @@
 # Virtuelt privat datanettverk
 
-En [virtuelt privat datanettverk](https://Nei.wikipedia.org/wiki/Virtual_private_network) (VPN) skaper en tunnel mellom din datamaskin og tilbyderens nettverk. Med kryptering gjør forbindelsen privat slikt trafikken er skjult fra andre. Dette er viktig når man er tilkoblet offentlige nettverk (tenk den åpne wifi på kaffeen) der trafikken kan insipiseres eller manipuleres av uvedkommende.  
-Samtidig må man stole på leverandøren av VPN da den kan se all trafikken og vil ikke benytte seg av informasjonen til andre formål. Et eksempel på dette er Hotspot Shield som hadde et samarbeid med annonsører.  
-Listen under er VPN tilbydere som respekterer brukerens privatliv.
+La oss starte med hvorfor en [virtuelt privat datanettverk](https://no.wikipedia.org/wiki/Virtual_private_network) (VPN) er en god ide å ha.  
+I dag kobler vi oss opp mot uttalige åpne trådløse soner i løpet av året, enten det er på toget, hotellet på feriestedet, baren når vi er uten eller under en konferanse. Det har blitt vanlig å spørre "hva er wifi passordet" er vi er andre steder enn vårt hjem. Men hvor sikkert er tilgangen egentlig? Som oftest når det er sikret med passord antar de fleste av oss at vi er på en sikker forbindelse. Dessverre er det ikke slikt, alle som er koblet på det trådløse nettverket kan "se" alle andre.  Og i et nettverk der du kan se andre som er pålogget kan du også manipulere trafikken om du vet hva du gjør.  
+En [virtuelt privat datanettverk](https://no.wikipedia.org/wiki/Virtual_private_network) (VPN) skaper en tunnel mellom din datamaskin eller mobil enhet og tilbyderens nettverk. Med kryptering gjør forbindelsen privat slikt trafikken er skjult fra andre.   
+Et annet aspekt er at man må kunne stole på leverandøren av VPN-tjenesten har satt opp tjenesten korrekt og benytter en teknologi som gjør det umulig for leverandøren å monitorere trafikken. Det har også vært eksempler der gratis tjenester har monitorert trafikken til kundene og solgt informasjonen til annonsører eller som det var tilfelle med Hotspot Shield som hadde et samarbeid med annonsører for å sette inn annonser hos brukeren.    
+Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og samtidig levere en solid tjeneste.  
 
-*Grunnlaget for listen er privacytoolsIO sin VPN liste*
+### Grunnlaget for listen
+* Grunnlaget for listen er [privacytoolsIO](https://www.privacytools.io/#vpn) sin VPN liste.  
+* Prisene og valutaen i listen er basert på nettsidene til tilbyderne.  
+* Der kun månedspris er annonsert har vi bare multiplisert månedsprisen prisen med 12.  
+* Gratis prøveperiode må gjelde fra datamaskin, "full refusjon" garanti ansees ikke som prøveperiode.
 
+
+### VPN listen
 <table>
         <thead>
           <tr>
             <th>Tilbyder</th>
             <th min-width:150px>Årlig pris</th>
             <th>Gratis prøveperiode</th>
-            <th title="Number of Servers">Antall servere</th>
+            <th>Antall servere</th>
             <th>Jurisdiksjon</th>
             <th>Nettside</th>
           </tr>
@@ -42,7 +50,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://www.blackvpn.com/"><img src="img/vpn/blackVPN.gif" width="100" height="35"></a>
             </td>
             <td>99 EUR</td>
-            <td><span class="label label-success">Ja</span></td>
+            <td><span class="label label-warning">Nei</span></td>
             <td>27</td>
             <td> Hong Kong</td>
             <td><a href="https://www.blackvpn.com/">blackVPN.com</a></td>
@@ -51,8 +59,8 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
             <td data-value="Cryptostorm">
               <a href="https://cryptostorm.is/"><img src="img/vpn/Cryptostorm.gif" width="100" height="35"></a>
             </td>
-            <td>52 USD</td>
-            <td><span class="label label-success">Ja</span></td>
+            <td>54 USD</td>
+            <td><span class="label label-warning">Nei</span></td>
             <td>18</td>
             <td>Island</td>
             <td><a href="https://cryptostorm.is/">Cryptostorm.is</a></td>
@@ -61,8 +69,8 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
             <td data-value="ExpressVPN">
               <a href="https://www.expressvpn.com/"><img src="img/vpn/ExpressVPN.gif" width="100" height="35"></a>
             </td>
-            <td>99.95 USD</td>
-            <td><span class="label label-success">Ja</span></td>
+            <td>99.84 USD</td>
+            <td><span class="label label-warning">Nei</span></td>
             <td>145</td>
             <td>British Virgin Islands</td>
             <td><a href="https://www.expressvpn.com/">ExpressVPN.com</a></td>
@@ -81,7 +89,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
             <td data-value="hide.me">
               <a href="https://hide.me/"><img src="img/vpn/hide.me.gif" width="100" height="35"></a>
             </td>
-            <td>65.04 USD</td>
+            <td>119,88 USD</td>
             <td><span class="label label-success">Ja</span></td>
             <td>88</td>
             <td><span class="flag-icon flag-icon-my"></span> Malaysia</td>
@@ -91,7 +99,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
             <td data-value="IVPN">
               <a href="https://www.ivpn.net/"><img src="img/vpn/IVPN.gif" width="100" height="35"></a>
             </td>
-            <td>99.96 USD</td>
+            <td>100 USD</td>
             <td><span class="label label-success">Ja</span></td>
             <td>21</td>
             <td><span class="flag-icon flag-icon-gi"></span> Gibraltar</td>
@@ -102,7 +110,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://mullvad.net/"><img src="img/vpn/Mullvad.gif" width="100" height="35"></a>
             </td>
             <td>60 EUR</td>
-            <td><span class="label label-success">Ja</span></td>
+            <td><span class="label label-Warning">Nei</span></td>
             <td>52</td>
             <td>Sverige</td>
             <td><a href="https://mullvad.net/">Mullvad.net</a></td>
@@ -112,7 +120,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
               <a href="https://Nordvpn.com/"><img src="img/vpn/NordVPN.gif" width="100" height="35"></a>
             </td>
             <td>69 USD</td>
-            <td><span class="label label-success">Ja</span></td>
+            <td><span class="label label-warning">Nei</span></td>
             <td>475</td>
             <td><span class="flag-icon flag-icon-pa"></span> Panama</td>
             <td><a href="https://Nordvpn.com/">NordVPN.com</a></td>
@@ -121,7 +129,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
             <td data-value="OVPN.com">
               <a href="https://www.ovpn.com/"><img src="img/vpn/OVPN.gif" width="100" height="35"></a>
             </td>
-            <td>84 USD</td>
+            <td>84 EUR</td>
             <td><span class="label label-success">Ja</span></td>
             <td>36</td>
             <td>Sverige</td>
@@ -131,22 +139,22 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
             <td data-value="Perfect Privacy">
               <a href="https://www.perfect-privacy.com/"><img src="img/vpn/Perfect-Privacy.gif" width="100" height="35"></a>
             </td>
-            <td>124.95 EUR</td>
+            <td>124.92 EUR</td>
             <td><span class="label label-warning">Nei</span></td>
             <td>41</td>
             <td><span class="flag-icon flag-icon-pa"></span> Panama</td>
             <td><a href="https://www.perfect-privacy.com/">Perfect-Privacy.com</a></td>
           </tr>
-                        <tr>
-                             <td data-value="ProtonVPN">
-                                 <a href="https://protonvpn.com/"><img src="img/vpn/ProtonVPN.png" width="100" height="35"></a     >
-                             </td>
-                             <td>96 USD</td>
-                             <td><span class="label label-success">Ja</span></td>
-                             <td>112</td>
-                             <td>Sveits</td>
-                             <td><a href="https://protonvpn.com/">ProtonVPN.com</a></td>
-                      </tr>
+        <tr>
+      <td data-value="ProtonVPN">
+      <a href="https://protonvpn.com/"><img src="img/vpn/ProtonVPN.png" width="100" height="35"></a     >
+      </td>
+      <td>96 USD</td>
+       <td><span class="label label-success">Ja</span></td>
+      <td>112</td>
+      <td>Sveits</td>
+      <td><a href="https://protonvpn.com/">ProtonVPN.com</a></td>
+      </tr>
           <tr>
             <td data-value="Proxy.sh">
               <a href="https://proxy.sh/"><img src="img/vpn/Proxy.sh.gif" width="100" height="35"></a>
@@ -161,7 +169,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
             <td data-value="Trust.Zone">
               <a href="https://trust.zone/"><img src="img/vpn/Trust.Zone.gif" width="100" height="35"></a>
             </td>
-            <td>39.95 USD</td>
+            <td>39.96 USD</td>
             <td><span class="label label-success">Ja</span></td>
             <td>48</td>
             <td>Seychellene</td>
@@ -189,3 +197,7 @@ Listen under er VPN tilbydere som respekterer brukerens privatliv.
           </tr>
         </tbody>
       </table>
+
+
+#### Trenger du en mer utfyllende liste?  
+Våre behov og ønsker varierer, om du ønsker en mer utfyllende liste anbefaler vi at du tar en titt på [The One Privacy Site](https://thatoneprivacysite.net) sin [VPN oversikt](https://thatoneprivacysite.net/vpn-comparison-chart/), som sannsynligvis er den mest komplette oversikt over VPN tilbydere.
