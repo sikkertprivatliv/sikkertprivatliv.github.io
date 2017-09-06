@@ -10,7 +10,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
 * Grunnlaget for listen er [privacytoolsIO](https://www.privacytools.io/#vpn) sin VPN liste.  
 * Prisene og valutaen i listen er basert på nettsidene til tilbyderne.  
 * Der kun månedspris er annonsert har vi bare multiplisert månedsprisen prisen med 12.  
-* Gratis prøveperiode må gjelde fra datamaskin, "full refusjon" garanti ansees ikke som prøveperiode.
+* Prøveperiode må være gratis, gjelde fra datamaskin og "full refusjon" garanti ansees ikke som prøveperiode.
 
 
 ### VPN listen
@@ -19,7 +19,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
           <tr>
             <th>Tilbyder</th>
             <th min-width:150px>Årlig pris</th>
-            <th>Gratis prøveperiode</th>
+            <th>Prøveperiode</th>
             <th>Antall servere</th>
             <th>Jurisdiksjon</th>
             <th>Nettside</th>
