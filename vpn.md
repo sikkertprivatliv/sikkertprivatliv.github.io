@@ -110,7 +110,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
               <a href="https://mullvad.net/"><img src="img/vpn/Mullvad.gif" width="100" height="35"></a>
             </td>
             <td>60 EUR</td>
-            <td><span class="label label-Warning">Nei</span></td>
+            <td><span class="label label-warning">Nei</span></td>
             <td>52</td>
             <td>Sverige</td>
             <td><a href="https://mullvad.net/">Mullvad.net</a></td>
