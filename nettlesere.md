@@ -26,7 +26,7 @@ Mozilla Firefox er en av de største nettlesere på markedet i dag. Mozilla har 
 
 ### Iridium Browser
 
-Basert på Chromium (Google Chrome), men har fått fjernet alle koblinger til Google. Fungerer på samme måte som Google Chrome og støtter Chrome applikasjoner.  
+Basert på Chromium (Google Chrome), men har fått fjernet alle koblinger til Google. Fungerer på samme måte som Google Chrome og støtter de aller fleste Chrome applikasjoner.  
 
 <table>
  <tr>

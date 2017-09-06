@@ -7,6 +7,13 @@ Epost bør beskyttes, den bør behandles av en leverandør som ikke vil tjene pe
 
 Her finner du en liste over leverandører som tilbyr private epost løsninger.
 
+### Grunnlaget for listen
+
+* Grunnlaget for listen er [privacytoolsIO](https://www.privacytools.io/#email) sin liste.
+* Med "Egen domene" sikter vi til muligheten for å benytte egne innkjøpte domener (kan kreve ekstra betaling)
+
+
+
 <table>
         <thead>
           <tr>

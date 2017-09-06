@@ -18,7 +18,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
         <thead>
           <tr>
             <th>Tilbyder</th>
-            <th min-width:150px>Årlig pris</th>
+            <th>Årlig pris</th>
             <th>Prøveperiode</th>
             <th>Antall servere</th>
             <th>Jurisdiksjon</th>
