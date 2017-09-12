@@ -1,6 +1,8 @@
 # Fildeling  
 
-Fra tid til annen må man dele filer med hverandre.
+Tjenester som Dropbox eller Google Drive benyttes ofte til å enkelt sende filer til hverande, og det er ikke tvil at slike tjenester har endret måten vi deler filer på. Men det finnes andre gode alternativer som tilbyr mer for å sikre din privatliv enten i form av kryptering eller hvor de er basert.  
+
+Her er 3 forslag til tjenester og applikasjoner som tar din privatliv seriøst. 
 
 
 ## [Firefox Send](https://send.firefox.com/)  
@@ -22,18 +24,19 @@ Minuset med tjenesten er at den sletter alle filene etter 24 timer og at den er 
 </table>
 
 
-## [OnionShare](https://onionshare.org/)  
-Er et åpent kildekode program for deling av filer, den benytter seg av TOR-nettverket for å anonymisere trafikken og forsendelsen. Det negative med tjenesten er at mottaker må ha TOR-nettleseren for å laste ned filen.
+## [Spideroak](https://spideroak.com/)  
+
+Spideroak tilbyr fillagringstjeneste som er kryptert. Dette betyr at Spideroak ikke vet hvilken filer du har lagret hos dem. Den tilbyr klienter til alle store operativsystemer.
 
 <table>
  <tr>
    <td>
-   <a href="https://onionshare.org/" >
-<img src="img/fildeling/onionshare.png" alt="OnionShare" height="50" width="50" />
+   <a href="https://spideroak.com/" >
+<img src="img/fildeling/spideroak.jpg" alt="OnionShare" height="50" width="50" />
 </a>
   </td>
    <td>
-   OS: Windows, macOS, Linux      
+   OS: Windows, macOS, Linux, iOS, Android      
    </td>
  </tr>
 </table>
@@ -41,7 +44,7 @@ Er et åpent kildekode program for deling av filer, den benytter seg av TOR-nett
 
 ## [Jottacloud](https://www.jottacloud.com/nb/index.html)  
 Norsk utviklet tjeneste som fungerer på samme måte som Dropbox, men den er underlagt norsk lovgiving da dataene er lagret i Norge (eller land med liknende lovgiving).  
-Det negative med tjenesten så langt har vært en mangelfull implementering av 2-faktor-autentisering (pr. august 2017) og setningen *"eller i et land med liknende eller enda strengere personvernlovgivning"* i personverngarantien da de ikke spesifiseres om dette er gjort og i hvilken land det gjelder.  
+Det negative med tjenesten så langt er setningen *"eller i et land med liknende eller enda strengere personvernlovgivning"* i personverngarantien da de ikke spesifiseres om dette er gjort og i hvilken land det gjelder. Og at data ikke er kryptert hos Jotta (det er det heller ikke f.eks hos Dropbox).
 
 <table>
  <tr>
