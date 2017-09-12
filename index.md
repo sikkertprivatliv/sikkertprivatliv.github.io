@@ -2,26 +2,25 @@
 
 
 Formålet med prosjektet #sikkertprivatliv er å gi gode råd og alternativer om hvordan du kan bedre ta vare på ditt privatliv på nett.     
-Prosjektet er basert på [privacytools.io](https://www.privacytools.io/) og selv vi benytter mye av deres ressurser så foretrakk jeg å lage en norsk alternativ fremfor å lage en direkte oversettelse.  
+Prosjektet er basert på [privacytools.io](https://www.privacytools.io/) og selv om jeg benyttet meg av mange av deres ressurser, så foretrakk jeg å lage en norsk alternativ fremfor en direkte oversettelse.  
 Det jobbes kontinuerlig med nettsiden, både med nyttt innhold og bedring av innholdet som allerede er publisert.  
-
 
 
 ### ![message](img/icons/message.svg)  [Meldingstjenester](meldingstjenester.md)
 
-Meldingstjenester er en viktig del av vår hverdag, men har du tenkt på hvor private disse samtaler er? Hva lagres? Hvor lagres den? Og hvordan er de beskyttet?    
-Enten det er WhatsApp (Facebook), Facebook Messenger eller Duo (Google), tar de vare på ditt privatliv? Eller sjekkes dine meldinger for å se hvordan disse selskapene kan servere "bedre" annonser til deg?  
+Meldinger (og derav tjenestene bak dem) er en viktig del av vår hverdag, men har du tenkt på hvor private disse samtaler er? Hva lagres? Hvor lagres den? Og hvordan er den informasjonen beskyttet?    
+Enten det er snakk om WhatsApp (Facebook), Facebook Messenger eller Duo (Google), tar de vare på ditt privatliv? Eller sjekkes dine meldinger for å se hvordan disse selskapene kan servere "bedre" annonser til deg?  
 I denne seksjonen finne du tips applikasjoner som støtter krypterte meldinger, dette betyr at meldingene kan kun sees av sender og mottaker.  
 
 
 ### ![call](img/icons/call.svg) ![video](img/icons/video.svg)  [Video og tale tjenester](video-tale.md)  
 
-Slikt som det er med meldinger, video og tale blitt viktige elementer i vårt hverdag. Vi kan i dag holde kontakt kjente og kjære på en måte som for 10 år siden var utenkelig, samtidig må vi også her være oppmerksom på hva som er privat og ikke. For selv Skype fungerer veldig bra, er den ikke privat.  I denne seksjonen vil du finne applikasjoner og tjenester som fungerer like bra som Skype, men som tar bedre vare på ditt privatliv.  
+Slikt som det er med meldinger, video og tale blitt viktige elementer i vårt hverdag. Vi kan i dag holde kontakt kjente og kjære på en måte som for 10 år siden var utenkelig, samtidig må vi også her være oppmerksom på hva som er privat og ikke. For selv Skype fungerer veldig bra, er den ikke privat. I denne seksjonen vil du finne applikasjoner og tjenester som fungerer like bra som Skype, men som tar bedre vare på ditt privatliv.  
 
 
 ### ![browser](img/icons/chrome.svg) [Nettlesere](nettlesere.md)  
 
-Uten tvil hovedverktøyet i enhver datamaskin, den hjelper oss å finne frem til det meste (kanskje til og med denne siden), men nettleseren ser også alt. Hva du søker etter, hva du klikker på, hva du leser, til og med hva du begynte men som du valgte å ikke skrive ferdig. Med så mye informasjon som nettleseren ser, kanskje det er på tide å sørge for at du bruker en nettleser som ikke vil utnytte dette for egen vinning?
+I dag er nettleseren uten tvil hovedverktøyet i enhver datamaskin, den hjelper oss å finne frem til det meste (kanskje til og med hjalp deg å finne frem til denne siden), men nettleseren ser også alt. Hva du søker etter, hva du klikker på, hva du leser, til og med hva du begynte men som du valgte å ikke skrive ferdig. Med så mye informasjon som nettleseren ser, kanskje det er på tide å sørge for at du bruker en nettleser som ikke vil utnytte dette for egen vinning?
 
 
 ### ![mail](img/icons/mail.svg) [Epost](epost.md)  
@@ -53,7 +52,7 @@ Vi benytter derimot [Cloudflare](https://cloudflare.com/), dette er gjort siden 
 
 #### Kontakt
 
-Du kan nå meg på Crypho: nelson.cheuque@protonmail[.]com eller du kan ta kontakt på [Twitter](https://twitter.com/sikkerprivatliv)
+Du kan nå meg på Crypho eller Wire: nelson.cheuque@protonmail[.]com eller du kan ta kontakt på [Twitter](https://twitter.com/sikkerprivatliv)
 
 <table>
  <tr>
