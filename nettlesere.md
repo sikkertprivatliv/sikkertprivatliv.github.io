@@ -44,7 +44,7 @@ Basert på Chromium (Google Chrome), men har fått fjernet alle koblinger til Go
 
 ### Vivaldi
 
-Fra mannen som sto bak nettleseren Opera, dette er et nyt forsøkt på en moderne nettleser. Er fortsatt tidlig i utviklingsfasen.
+Fra mannen som sto bak nettleseren Opera, dette er et nyt forsøkt på en moderne nettleser. Støtter også Chrome applikasjoner. Er fortsatt tidlig i utviklingsfasen.
 
 <table>
  <tr>
@@ -58,3 +58,7 @@ Fra mannen som sto bak nettleseren Opera, dette er et nyt forsøkt på en modern
    </td>
  </tr>
 </table>
+
+
+#### Alternativ til Firefox  
+Mange har i det siste stilt spørsmål om hvordan Mozilla takler personvernrettighetene. Et alternative kan da være [Waterfox](https://www.waterfoxproject.org/). Opprinnelig ble Waterfox til for å være et 64-bits alternativ til Firefox. Men har i det siste fokusert på personvern og privatliv. Om du føler du har behov for mer enn som tilbys av Firefox kan Waterfox være noe for deg.

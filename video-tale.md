@@ -1,7 +1,7 @@
 # Sikre video og tale applikasjoner.
 
-Slikt som det er med [meldingstjenester](meldingstjenester.md) blir også dine samtaler og video-samtaler monitorert slikt at selskapene bak enkelte tjenester kan servere bedre annonser.  
-Samtidig kan applikasjonen lekke informasjon om deg, dette skjedde med Skype. Derfor er det viktig å velge en applikasjonen som vil bekytte ditt privatliv.
+Slikt som det er med [meldingstjenester](meldingstjenester.md) blir også dine samtaler og video-samtaler overvåket slikt at selskapene bak enkelte tjenester kan servere bedre annonser.  
+Samtidig kan applikasjonen lekke informasjon om deg, dette skjedde med Skype. Derfor er det viktig å velge en applikasjonen som vil beskytte ditt privatliv.
 
 
 ### Signal  
@@ -55,3 +55,8 @@ Norskutviklet tjeneste, i utgangspunktet er den egentlig en konferanse / virtuel
    </td>
  </tr>
 </table>
+
+
+
+####Alternativ til Appear.in
+Om Appear.in (som er et kommersielt produkt) ikke tilfredsstiller dine krav, er det verdt å nevnte både [Jitsi](https://jitsi.org/) og [Ring.cx](https://ring.cx/). Begge er åpne-kildekode applikasjoner hvor [Jitsi](https://jitsi.org/) gjennom sin tjeneste [meet.jit.si](https://meet.jit.si/) fungerer på samme måte som Appear.in. [Ring.cx](https://ring.cx) krever installasjon av programvare.

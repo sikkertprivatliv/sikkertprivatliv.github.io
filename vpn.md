@@ -1,15 +1,15 @@
 # Virtuelt privat datanettverk
 
 La oss starte med hvorfor en [virtuelt privat datanettverk](https://no.wikipedia.org/wiki/Virtual_private_network) (VPN) er en god ide å ha.  
-I dag kobler vi oss opp mot uttalige åpne trådløse soner i løpet av året, enten det er på toget, hotellet på feriestedet, baren når vi er uten eller under en konferanse. Det har blitt vanlig å spørre "hva er wifi passordet" er vi er andre steder enn vårt hjem. Men hvor sikkert er tilgangen egentlig? Som oftest når det er sikret med passord antar de fleste av oss at vi er på en sikker forbindelse. Dessverre er det ikke slikt, alle som er koblet på det trådløse nettverket kan "se" alle andre.  Og i et nettverk der du kan se andre som er pålogget kan du også manipulere trafikken om du vet hva du gjør.  
+I dag kobler vi oss opp mot uttalelige åpne trådløse soner i løpet av året, enten det er på toget, hotellet på feriestedet, baren når vi er uten eller under en konferanse. Det har blitt vanlig å spørre "hva er wifi passordet" er vi er andre steder enn vårt hjem. Men hvor sikkert er tilgangen egentlig? Som oftest når det er sikret med passord antar de fleste av oss at vi er på en sikker forbindelse. Dessverre er det ikke slikt, alle som er koblet på det trådløse nettverket kan "se" alle andre.  Og i et nettverk der du kan se andre som er pålogget kan du også manipulere trafikken om du vet hva du gjør.  
 En [virtuelt privat datanettverk](https://no.wikipedia.org/wiki/Virtual_private_network) (VPN) skaper en tunnel mellom din datamaskin eller mobil enhet og tilbyderens nettverk. Med kryptering gjør forbindelsen privat slikt trafikken er skjult fra andre.   
-Et annet aspekt er at man må kunne stole på leverandøren av VPN-tjenesten har satt opp tjenesten korrekt og benytter en teknologi som gjør det umulig for leverandøren å monitorere trafikken. Det har også vært eksempler der gratis tjenester har monitorert trafikken til kundene og solgt informasjonen til annonsører eller som det var tilfelle med Hotspot Shield som hadde et samarbeid med annonsører for å sette inn annonser hos brukeren.    
+Et annet aspekt er at man må kunne stole på leverandøren av VPN-tjenesten har satt opp tjenesten korrekt og benytter en teknologi som gjør det umulig for leverandøren å overvåke trafikken. Det har også vært eksempler der gratis tjenester har overvåket trafikken til kundene og solgt informasjonen til annonsører eller som det var tilfelle med Hotspot Shield som hadde et samarbeid med annonsører for å sette inn annonser hos brukeren.    
 Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og samtidig levere en solid tjeneste.  
 
 ### Grunnlaget for listen
 * Grunnlaget for listen er [privacytoolsIO](https://www.privacytools.io/#vpn) sin VPN liste.  
 * Prisene og valutaen i listen er basert på nettsidene til tilbyderne.  
-* Der kun månedspris er annonsert har vi bare multiplisert månedsprisen prisen med 12.  
+* Der kun måneds pris er annonsert har vi bare multiplisert måneds prisen prisen med 12.  
 * Prøveperiode må være gratis, gjelde fra datamaskin og "full refusjon" garanti ansees ikke som prøveperiode.
 
 
