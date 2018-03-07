@@ -1,11 +1,11 @@
-# Epost tjenester
+# E-post tjenester
 
-Noensinne lurt på hvorfor Gmail er gratis? Eller Outlook?  
-Vi mottar i dag mye informasjon gjennom epost som de fleste av oss ville anse som privat, se over din innboks og spør deg selv "er jeg komfortabel med å visse all denne informasjonen til mine venner?". Vår innboks inneholder veldig mye informasjon om hvem vi er.  
-Er epostene du har i din innboks nå noe du er komfortabel med at alle på jobben visste om? Så er det greit at din epost leverandør leser alt?  
-Epost bør beskyttes, den bør behandles av en leverandør som ikke vil tjene penger på informasjonen som finnes der.
+Noensinne lurt på hvorfor Gmail er gratis? Eller Outlook/Hotmail?  
+Vi mottar i dag mye informasjon gjennom e-post som de fleste av oss ville anse som privat, se over din innboks og spør deg selv "er jeg komfortabel med å visse all denne informasjonen til mine venner?". Vår innboks inneholder veldig mye informasjon om hvem vi er.  
+Er e-postene du har i din innboks nå noe du er komfortabel med at alle på jobben visste om? Så er det greit at din e-post leverandør leser alt?  
+E-post bør beskyttes, den bør behandles av en leverandør som ikke vil tjene penger på informasjonen som finnes der.
 
-Her finner du en liste over leverandører som tilbyr private epost løsninger.
+Her finner du en liste over leverandører som tilbyr private e-post løsninger.
 
 ### Grunnlaget for listen
 

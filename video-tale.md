@@ -58,5 +58,5 @@ Norskutviklet tjeneste, i utgangspunktet er den egentlig en konferanse / virtuel
 
 
 
-####Alternativ til Appear.in
+#### Alternativ til Appear.in
 Om Appear.in (som er et kommersielt produkt) ikke tilfredsstiller dine krav, er det verdt å nevnte både [Jitsi](https://jitsi.org/) og [Ring.cx](https://ring.cx/). Begge er åpne-kildekode applikasjoner hvor [Jitsi](https://jitsi.org/) gjennom sin tjeneste [meet.jit.si](https://meet.jit.si/) fungerer på samme måte som Appear.in. [Ring.cx](https://ring.cx) krever installasjon av programvare.

@@ -23,9 +23,9 @@ Slikt som det er med meldinger, video og tale blitt viktige elementer i vårt hv
 I dag er nettleseren uten tvil hovedverktøyet i enhver datamaskin, den hjelper oss å finne frem til det meste (kanskje til og med hjalp deg å finne frem til denne siden), men nettleseren ser også alt. Hva du søker etter, hva du klikker på, hva du leser, til og med hva du begynte men som du valgte å ikke skrive ferdig. Med så mye informasjon som nettleseren ser, kanskje det er på tide å sørge for at du bruker en nettleser som ikke vil utnytte dette for egen vinning?
 
 
-### ![mail](img/icons/mail.svg) [Epost](epost.md)  
+### ![mail](img/icons/mail.svg) [E-post](epost.md)  
 
-Ville du la Posten lese all posten du mottok slikt at de kunne sende deg bedre annonser i postkassen? Ikke jeg heller, men mange av gratis epost leverandørene gjør nettopp det. Jeg tror flesteparten er enig med meg at epost (og post for den saks skyld) er privat.  Derfor er det viktig å ha en leverandør av epost som tar din sikkerhet og privatliv for alvor.  
+Ville du la Posten lese all posten du mottok slikt at de kunne sende deg bedre annonser i postkassen? Ikke jeg heller, men mange av gratis epost leverandørene gjør nettopp det. Jeg tror flesteparten er enig med meg at e-post (og post for den saks skyld) er privat.  Derfor er det viktig å ha en leverandør av e-post som tar din sikkerhet og privatliv for alvor.  
 
 
 ### ![vpn](img/icons/shield.svg)  [Virtuelt privat datanettverk (VPN)](vpn.md)  
