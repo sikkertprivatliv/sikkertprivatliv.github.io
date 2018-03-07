@@ -24,7 +24,7 @@ Signal er utviklet av Open Whisper Systems og og i tillegg til å støtte ende-t
 
 ### Wire
 Er ut viklet av Wire Swiss GmbH. og i tillegg til å støtte krypterterte meldinger, støtter den også video og tale.  
-*Om du lager konto fra nettsiden så krever ikke Wire ditt telefonnummer, kun epost.*
+*Om du lager konto fra nettsiden så krever ikke Wire ditt telefonnummer, kun e-post.*
 
 <table>
  <tr>
