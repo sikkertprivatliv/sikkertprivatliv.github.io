@@ -3,7 +3,7 @@
 
 Formålet med prosjektet #sikkertprivatliv er å gi gode råd og alternativer om hvordan du kan bedre ta vare på ditt privatliv på nett.     
 Prosjektet er basert på [privacytools.io](https://www.privacytools.io/) og selv om jeg benyttet meg av mange av deres ressurser, så foretrakk jeg å lage en norsk alternativ fremfor en direkte oversettelse.  
-Det jobbes kontinuerlig med nettsiden, både med nyttt innhold og bedring av innholdet som allerede er publisert.  
+Det jobbes kontinuerlig med nettsiden, både med nytt innhold og bedring av innholdet som allerede er publisert.  
 
 
 ### ![message](img/icons/message.svg)  [Meldingstjenester](meldingstjenester.md)
@@ -20,7 +20,7 @@ Slikt som det er med meldinger, video og tale blitt viktige elementer i vårt hv
 
 ### ![browser](img/icons/chrome.svg) [Nettlesere](nettlesere.md)  
 
-I dag er nettleseren uten tvil hovedverktøyet i enhver datamaskin, den hjelper oss å finne frem til det meste (kanskje til og med hjalp deg å finne frem til denne siden), men nettleseren ser også alt. Hva du søker etter, hva du klikker på, hva du leser, til og med hva du begynte men som du valgte å ikke skrive ferdig. Med så mye informasjon som nettleseren ser, kanskje det er på tide å sørge for at du bruker en nettleser som ikke vil utnytte dette for egen vinning?
+I dag er nettleseren uten tvil hovedverktøyet i enhver datamaskin, den hjelper oss å finne frem til det meste, men nettleseren ser også alt. Hva du søker etter, hva du klikker på, hva du leser og hvor lenge, til og med hva du begynte men som du valgte å ikke skrive ferdig. Med så mye informasjon som nettleseren ser, kanskje det er på tide å sørge for at du bruker en nettleser som ikke vil utnytte dette for egen vinning?
 
 
 ### ![mail](img/icons/mail.svg) [E-post](epost.md)  
@@ -46,13 +46,14 @@ Ville det ikke være greit å ha noen gode alternativer til de etablerte tjenest
 ## Om denne nettsiden
 
 #### Ingen reklame, ingen Google Analytics.  
-Vi gjør dette frivillig og har ingen kostnader med å drive nettsiden, derfor har vi heller ikke bruk for reklame eller analyser av trafikken.  Vi har kun statiske sider og alle filer som tilhører nettsiden kan inspiseres på Github. Vi gjør dette for å være mest mulig transparente slikt at du kan stole på at alle råd du for her er uavhengige.  
-Vi benytter derimot [Cloudflare](https://cloudflare.com/), dette er gjort siden Github Pages (der nettsiden er lagret) ikke støtter HTTPS med egne domener, derfor benytter vi Cloudflare for å kunne benytte HTTPS.
+Vi gjør dette frivillig og har ingen kostnader med å drive nettsiden, derfor har vi heller ikke bruk for reklame eller analyser av trafikken.  Vi har kun statiske sider og alle filer som tilhører nettsiden kan inspiseres på Github. Vi gjør dette for å være mest mulig transparente slik at du kan stole på at alle råd du for her er uavhengige.  
+Vi benytter derimot [Cloudflare](https://cloudflare.com/), dette er gjort siden Github Pages ikke støttet HTTPS på egne domener når nettsiden ble laget. Siden den tid har Github rullet ut denne støtten og vi regner med å fjerne Cloudflare i løpet av året.
+
 
 
 #### Kontakt
 
-Du kan nå meg på Crypho eller Wire: nelson.cheuque@pm[.]com eller du kan ta kontakt på [Twitter](https://twitter.com/sikkerprivatliv)
+Du kan nå meg på Wire: nelson.cheuque@pm[.]com eller du kan ta kontakt på [Twitter](https://twitter.com/sikkerprivatliv)
 
 <table>
  <tr>
