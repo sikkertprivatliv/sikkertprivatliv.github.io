@@ -198,6 +198,5 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
         </tbody>
       </table>
 
-
 #### Trenger du en mer utfyllende liste?  
 Våre behov og ønsker varierer, om du ønsker en mer utfyllende liste anbefaler vi at du tar en titt på [The One Privacy Site](https://thatoneprivacysite.net) sin [VPN oversikt](https://thatoneprivacysite.net/vpn-comparison-chart/), som sannsynligvis er den mest komplette oversikt over VPN tilbydere.
