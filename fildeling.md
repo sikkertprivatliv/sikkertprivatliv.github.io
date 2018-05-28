@@ -44,7 +44,7 @@ Spideroak tilbyr fillagringstjeneste som er kryptert. Dette betyr at Spideroak i
 
 ## [Jottacloud](https://www.jottacloud.com/nb/index.html)  
 Norsk utviklet tjeneste som fungerer på samme måte som Dropbox, men den er underlagt norsk lovgiving da dataene er lagret i Norge (eller land med liknende lovgiving).  
-Det negative med tjenesten så langt er setningen *"eller i et land med liknende eller enda strengere personvernlovgivning"* i personverngarantien da de ikke spesifiseres om dette er gjort og i hvilken land det gjelder. Og at data ikke er kryptert hos Jotta (det er det heller ikke f.eks. hos Dropbox).
+Det negative med tjenesten så langt er setningen *"eller i et land med liknende eller enda strengere personvernlovgivning"* i personverngarantien da de ikke spesifiseres om dette er gjort og i hvilken land det gjelder. Og at data ikke er kryptert hos Jotta (det er det heller ikke hos f.eks. Dropbox).
 
 <table>
  <tr>

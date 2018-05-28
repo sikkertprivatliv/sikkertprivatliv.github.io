@@ -1,7 +1,7 @@
 # Sikre video og tale applikasjoner.
 
-Slikt som det er med [meldingstjenester](meldingstjenester.md) blir også dine samtaler og video-samtaler overvåket slikt at selskapene bak enkelte tjenester kan servere bedre annonser.  
-Samtidig kan applikasjonen lekke informasjon om deg, dette skjedde med Skype. Derfor er det viktig å velge en applikasjonen som vil beskytte ditt privatliv.
+Slikt som det er med [meldingstjenester](meldingstjenester.md) blir også dine samtaler og videosamtaler overvåket slik at selskapene bak enkelte tjenester kan servere bedre annonser til deg.  
+Samtidig kan applikasjonen lekke informasjon om deg, dette har skjedd med f.eks Skype. Derfor er det viktig å velge en applikasjonen som vil beskytte ditt privatliv.
 
 
 ### Signal  
