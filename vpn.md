@@ -59,7 +59,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td data-value="Cryptostorm">
               <a href="https://cryptostorm.is/"><img src="img/vpn/Cryptostorm.gif" width="100" height="35"></a>
             </td>
-            <td>54 USD</td>
+            <td>52 USD</td>
             <td><span class="label label-warning">Nei</span></td>
             <td>18</td>
             <td>Island</td>
@@ -69,7 +69,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td data-value="ExpressVPN">
               <a href="https://www.expressvpn.com/"><img src="img/vpn/ExpressVPN.gif" width="100" height="35"></a>
             </td>
-            <td>99.84 USD</td>
+            <td>99.95 USD</td>
             <td><span class="label label-warning">Nei</span></td>
             <td>145</td>
             <td>British Virgin Islands</td>
@@ -89,7 +89,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td data-value="hide.me">
               <a href="https://hide.me/"><img src="img/vpn/hide.me.gif" width="100" height="35"></a>
             </td>
-            <td>119,88 USD</td>
+            <td>65.04 USD</td>
             <td><span class="label label-success">Ja</span></td>
             <td>88</td>
             <td><span class="flag-icon flag-icon-my"></span> Malaysia</td>
@@ -139,7 +139,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td data-value="Perfect Privacy">
               <a href="https://www.perfect-privacy.com/"><img src="img/vpn/Perfect-Privacy.gif" width="100" height="35"></a>
             </td>
-            <td>124.92 EUR</td>
+            <td>124.95 EUR</td>
             <td><span class="label label-warning">Nei</span></td>
             <td>41</td>
             <td><span class="flag-icon flag-icon-pa"></span> Panama</td>
@@ -169,7 +169,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td data-value="Trust.Zone">
               <a href="https://trust.zone/"><img src="img/vpn/Trust.Zone.gif" width="100" height="35"></a>
             </td>
-            <td>39.96 USD</td>
+            <td>39.95 USD</td>
             <td><span class="label label-success">Ja</span></td>
             <td>48</td>
             <td>Seychellene</td>
