@@ -39,24 +39,20 @@ Er ut viklet av Wire Swiss GmbH. og i tillegg til å støtte krypterterte meldin
  </tr>
 </table>
 
-### Appear.in  
-Norskutviklet tjeneste, i utgangspunktet er den egentlig en konferanse / virtuell møterom tjeneste. Men tjenesten er gratis og krever ikke registrering og utgjør en veldig god alternativ til Skype.
+### Jitsi  
+I utgangspunktet er Jitsi en konferanse / virtuell møterom tjeneste. Men tjenesten er gratis og krever ikke registrering.
 
 <table>
  <tr>
    <td>
-    <a href="https://appear.in/" >
-<img src="img/meldinger/appearin.png" alt="Wire" height="50" width="50" />
+    <a href="https://meet.jit.si/" >
+<img src="img/meldinger/jitsi.png" alt="Jitsi" height="50" width="50" />
 </a>
   </td>
    <td>
-   OS: iOS, Web    
+   OS: Web    
 
    </td>
  </tr>
 </table>
 
-
-
-#### Alternativ til Appear.in
-Om Appear.in (som er et kommersielt produkt) ikke tilfredsstiller dine krav, er det verdt å nevnte både [Jitsi](https://jitsi.org/) og [Ring.cx](https://ring.cx/). Begge er åpne-kildekode applikasjoner hvor [Jitsi](https://jitsi.org/) gjennom sin tjeneste [meet.jit.si](https://meet.jit.si/) fungerer på samme måte som Appear.in. [Ring.cx](https://ring.cx) krever installasjon av programvare.
