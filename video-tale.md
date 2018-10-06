@@ -46,7 +46,7 @@ I utgangspunktet er Jitsi en konferanse / virtuell møterom tjeneste. Men tjenes
  <tr>
    <td>
     <a href="https://meet.jit.si/" >
-<img src="img/meldinger/jitsi.png" alt="Jitsi" height="50" width="50" />
+<img src="img/meldinger/jitsi.svg" alt="Jitsi" height="50" width="50" />
 </a>
   </td>
    <td>
