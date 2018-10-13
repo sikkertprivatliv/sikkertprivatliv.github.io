@@ -53,7 +53,7 @@ Vi benytter derimot [Cloudflare](https://cloudflare.com/), dette er gjort siden 
 
 #### Kontakt
 
-Du kan nå meg på Wire: nelson.cheuque@pm[.]com eller du kan ta kontakt på [Twitter](https://twitter.com/sikkerprivatliv)
+Du kan nå meg på Wire: nelson.cheuque(@)pm(.)com eller du kan ta kontakt på [Twitter](https://twitter.com/sikkerprivatliv)
 
 <table>
  <tr>
