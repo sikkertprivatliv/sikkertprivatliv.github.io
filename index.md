@@ -47,7 +47,10 @@ Ville det ikke være greit å ha noen gode alternativer til de etablerte tjenest
 
 #### Ingen reklame, ingen Google Analytics.  
 Vi gjør dette frivillig og har ingen kostnader med å drive nettsiden, derfor har vi heller ikke bruk for reklame eller analyser av trafikken.  Vi har kun statiske sider og alle filer som tilhører nettsiden kan inspiseres på Github. Vi gjør dette for å være mest mulig transparente slik at du kan stole på at alle råd du for her er uavhengige.  
-Vi benytter derimot [Cloudflare](https://cloudflare.com/), dette er gjort siden Github Pages ikke støttet HTTPS på egne domener når nettsiden ble laget. Siden den tid har Github rullet ut denne støtten og vi regner med å fjerne Cloudflare i løpet av året.
+
+
+#### [Endringslogg](endringsslogg.md) 
+Her lister vi endringene som vi gjør med nettsiden, for eksempel hvilken programmer vi fjerner og hvorfor.
 
 
 
