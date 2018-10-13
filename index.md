@@ -49,7 +49,7 @@ Ville det ikke være greit å ha noen gode alternativer til de etablerte tjenest
 Vi gjør dette frivillig og har ingen kostnader med å drive nettsiden, derfor har vi heller ikke bruk for reklame eller analyser av trafikken.  Vi har kun statiske sider og alle filer som tilhører nettsiden kan inspiseres på Github. Vi gjør dette for å være mest mulig transparente slik at du kan stole på at alle råd du for her er uavhengige.  
 
 
-#### [Endringslogg](endringsslogg.md) 
+#### [Endringslogg](endringslogg.md) 
 Her lister vi endringene som vi gjør med nettsiden, for eksempel hvilken programmer vi fjerner og hvorfor.
 
 
