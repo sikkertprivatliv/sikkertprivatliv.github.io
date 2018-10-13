@@ -7,7 +7,7 @@ I denne seksjonen finne du tips applikasjoner som støtter krypterte meldinger. 
 
 ### Signal
 
-Signal er utviklet av Open Whisper Systems og og i tillegg til å støtte krypterte meldinger, støtter den også video og tale.
+Signal er utviklet av Open Whisper Systems og i tillegg til å støtte krypterte meldinger, støtter den også video og tale.
 Er den mest kjente applikasjonen og har blitt anbefalt av blant annet Edward Snowden. Brukes av veldig mange journalister.  
 *For å lage en konto så krever den ditt telefonnummer.*
 

@@ -15,7 +15,7 @@ I denne seksjonen finne du tips applikasjoner som støtter krypterte meldinger, 
 
 ### ![call](img/icons/call.svg) ![video](img/icons/video.svg)  [Video og tale tjenester](video-tale.md)  
 
-Slikt som det er med meldinger, video og tale blitt viktige elementer i vårt hverdag. Vi kan i dag holde kontakt kjente og kjære på en måte som for 10 år siden var utenkelig, samtidig må vi også her være oppmerksom på hva som er privat og ikke. For selv Skype fungerer veldig bra, er den ikke privat. I denne seksjonen vil du finne applikasjoner og tjenester som fungerer like bra som Skype, men som tar bedre vare på ditt privatliv.  
+Slikt som det er med meldinger, video og tale blitt viktige elementer i vår hverdag. Vi kan i dag holde kontakt kjente og kjære på en måte som for 10 år siden var utenkelig, samtidig må vi også her være oppmerksom på hva som er privat og ikke. For selv Skype fungerer veldig bra, er den ikke privat. I denne seksjonen vil du finne applikasjoner og tjenester som fungerer like bra som Skype, men som tar bedre vare på ditt privatliv.  
 
 
 ### ![browser](img/icons/chrome.svg) [Nettlesere](nettlesere.md)  

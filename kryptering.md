@@ -20,4 +20,4 @@ Du har vært lur denne gangen og, for du har brukt en hemmelig kode bare du kjen
 
 Så vi når vi overfører dette eksemplet tilbake til dataverden, så ser vi på data du har lagret på PC, Mac eller mobiltelefonen din. Vi tipper på at det er mer sensitivt enn hvem du var forelsket i på barneskolen. Hvis du skulle miste eller få frastjålet utstyret med denne informasjonen, kan disse sensitive opplysningene leses ut av uvedkommende med onde hensikter. Med kryptering av harddisk og lagring vil denne informasjonen kun være tilgjengelig for det, fordi du kan koden, og vil være helt ubrukelig for andre.
 
-Alle moderne operativsystemer for datamaskiner (Windows, macOS, Linux, osv) og telefoner (Apple iOS, Android) har funksjonalitet for kryptere lagringen.
+Alle moderne operativsystemer for datamaskiner (Windows, macOS, Linux, osv) og telefoner (Apple iOS, Android) har funksjonalitet for å kryptere lagringen.

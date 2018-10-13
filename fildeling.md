@@ -1,8 +1,8 @@
 # Fildeling  
 
-Tjenester som Dropbox eller Google Drive benyttes ofte til å enkelt sende filer til hverandre, og det er ikke tvil at slike tjenester har endret måten vi deler filer på. Men det finnes andre gode alternativer som tilbyr mer for å sikre din privatliv enten i form av kryptering eller hvor de er basert.  
+Tjenester som Dropbox eller Google Drive benyttes ofte til å enkelt sende filer til hverandre, og det er ikke tvil at slike tjenester har endret måten vi deler filer på. Men det finnes andre gode alternativer som tilbyr mer for å sikre ditt privatliv enten i form av kryptering eller hvor de er basert.  
 
-Her er 3 forslag til tjenester og applikasjoner som tar din privatliv seriøst.
+Her er 3 forslag til tjenester og applikasjoner som tar ditt privatliv seriøst.
 
 
 ## [Firefox Send](https://send.firefox.com/)  
