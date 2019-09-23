@@ -27,15 +27,6 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
         </thead>
         <tbody>
           <tr>
-            <td data-value="AirVPN">
-              <a href="https://airvpn.org/"><img src="img/vpn/AirVPN.gif" width="100" height="35"></a></td>
-            <td>54 EUR</td>
-            <td><span class="label label-success">Ja</span></td>
-            <td>162</td>
-            <td>Italia</td>
-            <td><a href="https://airvpn.org/">AirVPN.org</a></td>
-          </tr>
-          <tr>
             <td data-value="AzireVPN">
               <a href="https://www.azirevpn.com/"><img src="img/vpn/AzireVPN.gif" width="100" height="35"></a>
             </td>
@@ -44,16 +35,6 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td>5</td>
             <td>Sverige</td>
             <td><a href="https://www.azirevpn.com/">AzireVPN.com</a></td>
-          </tr>
-          <tr>
-            <td data-value="blackVPN">
-              <a href="https://www.blackvpn.com/"><img src="img/vpn/blackVPN.gif" width="100" height="35"></a>
-            </td>
-            <td>99 EUR</td>
-            <td><span class="label label-warning">Nei</span></td>
-            <td>27</td>
-            <td> Hong Kong</td>
-            <td><a href="https://www.blackvpn.com/">blackVPN.com</a></td>
           </tr>
           <tr>
             <td data-value="Cryptostorm">
@@ -84,16 +65,6 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td>27</td>
             <td>Sverige</td>
             <td><a href="https://www.frootvpn.com/">FrootVPN.com</a></td>
-          </tr>
-          <tr>
-            <td data-value="hide.me">
-              <a href="https://hide.me/"><img src="img/vpn/hide.me.gif" width="100" height="35"></a>
-            </td>
-            <td>65.04 USD</td>
-            <td><span class="label label-success">Ja</span></td>
-            <td>88</td>
-            <td><span class="flag-icon flag-icon-my"></span> Malaysia</td>
-            <td><a href="https://hide.me/">hide.me</a></td>
           </tr>
           <tr>
             <td data-value="IVPN">
