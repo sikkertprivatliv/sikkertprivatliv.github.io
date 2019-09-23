@@ -56,3 +56,4 @@ I utgangspunktet er Jitsi en konferanse / virtuell møterom tjeneste. Men tjenes
  </tr>
 </table>
 
+

@@ -6,7 +6,7 @@ Her er 3 forslag til tjenester og applikasjoner som tar ditt privatliv seriøst.
 
 
 ## [Firefox Send](https://send.firefox.com/)  
-Mozilla nyeste tjeneste tillater at du sender filer opp til 1GB størrelse. Filene blir kryptert ved opplasting og et spesielt lenke blir laget. Denne deler du med mottaker som da har 24 timer for å laste ned filen.  
+Mozilla nyeste tjeneste tillater at du sender filer opp til 1GB størrelse (2GB hvis du logger inn). Filene blir kryptert ved opplasting og et spesielt lenke blir laget. Denne deler du med mottaker som da har 24 timer for å laste ned filen.  
 Minuset med tjenesten er at den sletter alle filene etter 24 timer og at den er såpass ny at den har ikke gått gjennom nøye uavhengige vurderinger.
 
 

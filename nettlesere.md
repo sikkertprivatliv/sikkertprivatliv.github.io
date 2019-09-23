@@ -44,7 +44,7 @@ Basert på Chromium (Google Chrome), men har fått fjernet alle koblinger til Go
 
 ### Vivaldi
 
-Fra mannen som sto bak nettleseren Opera, dette er et nyt forsøkt på en moderne nettleser. Støtter også Chrome applikasjoner. Er fortsatt tidlig i utviklingsfasen.
+Fra mannen som sto bak nettleseren Opera, dette er et nyt forsøkt på en moderne nettleser. Støtter også Chrome nettlesertillegg. 
 
 <table>
  <tr>
