@@ -20,29 +20,19 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <th>Tilbyder</th>
             <th>Årlig pris</th>
             <th>Prøveperiode</th>
-            <th>Antall servere</th>
+            <th>Antall enheter</th>
             <th>Jurisdiksjon</th>
             <th>Nettside</th>
           </tr>
         </thead>
         <tbody>
           <tr>
-            <td data-value="AzireVPN">
-              <a href="https://www.azirevpn.com/"><img src="img/vpn/AzireVPN.gif" width="100" height="35"></a>
-            </td>
-            <td>45 EUR</td>
-            <td><span class="label label-warning">Nei</span></td>
-            <td>5</td>
-            <td>Sverige</td>
-            <td><a href="https://www.azirevpn.com/">AzireVPN.com</a></td>
-          </tr>
-          <tr>
             <td data-value="Cryptostorm">
               <a href="https://cryptostorm.is/"><img src="img/vpn/Cryptostorm.gif" width="100" height="35"></a>
             </td>
             <td>52 USD</td>
             <td><span class="label label-warning">Nei</span></td>
-            <td>18</td>
+            <td>4</td>
             <td>Island</td>
             <td><a href="https://cryptostorm.is/">Cryptostorm.is</a></td>
           </tr>
@@ -52,7 +42,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             </td>
             <td>35.88 USD</td>
             <td><span class="label label-warning">Nei</span></td>
-            <td>27</td>
+            <td>5</td>
             <td>Sverige</td>
             <td><a href="https://www.frootvpn.com/">FrootVPN.com</a></td>
           </tr>
@@ -62,7 +52,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             </td>
             <td>100 USD</td>
             <td><span class="label label-success">Ja</span></td>
-            <td>21</td>
+            <td>7</td>
             <td><span class="flag-icon flag-icon-gi"></span> Gibraltar</td>
             <td><a href="https://www.ivpn.net/">IVPN.net</a></td>
           </tr>
@@ -72,7 +62,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             </td>
             <td>60 EUR</td>
             <td><span class="label label-warning">Nei</span></td>
-            <td>52</td>
+            <td>5</td>
             <td>Sverige</td>
             <td><a href="https://mullvad.net/">Mullvad.net</a></td>
           </tr>
@@ -82,7 +72,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             </td>
             <td>84 EUR</td>
             <td><span class="label label-success">Ja</span></td>
-            <td>36</td>
+            <td>4</td>
             <td>Sverige</td>
             <td><a href="https://www.ovpn.com/">OVPN.com</a></td>
           </tr>
@@ -90,9 +80,9 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td data-value="Perfect Privacy">
               <a href="https://www.perfect-privacy.com/"><img src="img/vpn/Perfect-Privacy.gif" width="100" height="35"></a>
             </td>
-            <td>124.95 EUR</td>
+            <td>119.99 EUR</td>
             <td><span class="label label-warning">Nei</span></td>
-            <td>41</td>
+            <td>4</td>
             <td><span class="flag-icon flag-icon-pa"></span> Panama</td>
             <td><a href="https://www.perfect-privacy.com/">Perfect-Privacy.com</a></td>
           </tr>
@@ -107,32 +97,12 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
       <td><a href="https://protonvpn.com/">ProtonVPN.com</a></td>
       </tr>
           <tr>
-            <td data-value="Proxy.sh">
-              <a href="https://proxy.sh/"><img src="img/vpn/Proxy.sh.gif" width="100" height="35"></a>
-            </td>
-            <td>90 USD</td>
-            <td><span class="label label-warning">Nei</span></td>
-            <td>300</td>
-            <td>Seychellene</td>
-            <td><a href="https://proxy.sh/">Proxy.sh</a></td>
-          </tr>
-          <tr>
-            <td data-value="Trust.Zone">
-              <a href="https://trust.zone/"><img src="img/vpn/Trust.Zone.gif" width="100" height="35"></a>
-            </td>
-            <td>39.95 USD</td>
-            <td><span class="label label-success">Ja</span></td>
-            <td>48</td>
-            <td>Seychellene</td>
-            <td><a href="https://trust.zone/">Trust.Zone</a></td>
-          </tr>
-          <tr>
             <td data-value="VPN.ht">
               <a href="https://vpn.ht/"><img src="img/vpn/VPN.ht.gif" width="100" height="35"></a>
             </td>
             <td >39.99 USD</td>
             <td><span class="label label-warning">Nei</span></td>
-            <td>122</td>
+            <td>3</td>
             <td><span class="flag-icon flag-icon-hk"></span> Hong Kong</td>
             <td><a href="https://vpn.ht/">VPN.ht</a></td>
           </tr>
@@ -142,7 +112,7 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             </td>
             <td>35.88 USD</td>
             <td><span class="label label-warning">Nei</span></td>
-            <td>80</td>
+            <td>5</td>
             <td>Seychellene</td>
             <td><a href="https://vpntunnel.com/">VPNTunnel.com</a></td>
           </tr>
