@@ -25,7 +25,7 @@ I dag er nettleseren uten tvil hovedverktøyet i enhver datamaskin, den hjelper 
 
 ### ![mail](img/icons/mail.svg) [E-post](epost.md)  
 
-Ville du la Posten lese all posten du mottok slikt at de kunne sende deg bedre annonser i postkassen? Ikke jeg heller, men mange av gratis e-post leverandørene gjør nettopp det. Jeg tror flesteparten er enig med meg at e-post (og post for den saks skyld) er privat.  Derfor er det viktig å ha en leverandør av e-post som tar din sikkerhet og privatliv for alvor.  
+Ville du la Posten lese all posten du mottok slikt at de kunne sende deg bedre annonser i postkassen? Ikke jeg heller, men mange av gratis epost leverandørene gjør nettopp det. Jeg tror flesteparten er enig med meg at e-post (og post for den saks skyld) er privat.  Derfor er det viktig å ha en leverandør av e-post som tar din sikkerhet og privatliv for alvor.  
 
 
 ### ![vpn](img/icons/shield.svg)  [Virtuelt privat datanettverk (VPN)](vpn.md)  

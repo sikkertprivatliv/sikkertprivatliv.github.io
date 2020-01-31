@@ -27,6 +27,15 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
         </thead>
         <tbody>
           <tr>
+            <td data-value="AirVPN">
+              <a href="https://airvpn.org/"><img src="img/vpn/AirVPN.gif" width="100" height="35"></a></td>
+            <td>54 EUR</td>
+            <td><span class="label label-success">Ja</span></td>
+            <td>162</td>
+            <td>Italia</td>
+            <td><a href="https://airvpn.org/">AirVPN.org</a></td>
+          </tr>
+          <tr>
             <td data-value="AzireVPN">
               <a href="https://www.azirevpn.com/"><img src="img/vpn/AzireVPN.gif" width="100" height="35"></a>
             </td>
@@ -35,6 +44,16 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td>5</td>
             <td>Sverige</td>
             <td><a href="https://www.azirevpn.com/">AzireVPN.com</a></td>
+          </tr>
+          <tr>
+            <td data-value="blackVPN">
+              <a href="https://www.blackvpn.com/"><img src="img/vpn/blackVPN.gif" width="100" height="35"></a>
+            </td>
+            <td>99 EUR</td>
+            <td><span class="label label-warning">Nei</span></td>
+            <td>27</td>
+            <td> Hong Kong</td>
+            <td><a href="https://www.blackvpn.com/">blackVPN.com</a></td>
           </tr>
           <tr>
             <td data-value="Cryptostorm">
@@ -47,6 +66,16 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td><a href="https://cryptostorm.is/">Cryptostorm.is</a></td>
           </tr>
           <tr>
+            <td data-value="ExpressVPN">
+              <a href="https://www.expressvpn.com/"><img src="img/vpn/ExpressVPN.gif" width="100" height="35"></a>
+            </td>
+            <td>99.95 USD</td>
+            <td><span class="label label-warning">Nei</span></td>
+            <td>145</td>
+            <td>British Virgin Islands</td>
+            <td><a href="https://www.expressvpn.com/">ExpressVPN.com</a></td>
+          </tr>
+          <tr>
             <td data-value="FrootVPN">
               <a href="https://www.frootvpn.com/"><img src="img/vpn/FrootVPN.gif" width="100" height="35"></a>
             </td>
@@ -55,6 +84,16 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td>27</td>
             <td>Sverige</td>
             <td><a href="https://www.frootvpn.com/">FrootVPN.com</a></td>
+          </tr>
+          <tr>
+            <td data-value="hide.me">
+              <a href="https://hide.me/"><img src="img/vpn/hide.me.gif" width="100" height="35"></a>
+            </td>
+            <td>65.04 USD</td>
+            <td><span class="label label-success">Ja</span></td>
+            <td>88</td>
+            <td><span class="flag-icon flag-icon-my"></span> Malaysia</td>
+            <td><a href="https://hide.me/">hide.me</a></td>
           </tr>
           <tr>
             <td data-value="IVPN">
@@ -75,6 +114,16 @@ Vi mener listen under inneholder tilbydere som vil respektere ditt privatliv og 
             <td>52</td>
             <td>Sverige</td>
             <td><a href="https://mullvad.net/">Mullvad.net</a></td>
+          </tr>
+          <tr>
+            <td data-value="NordVPN">
+              <a href="https://Nordvpn.com/"><img src="img/vpn/NordVPN.gif" width="100" height="35"></a>
+            </td>
+            <td>69 USD</td>
+            <td><span class="label label-warning">Nei</span></td>
+            <td>475</td>
+            <td><span class="flag-icon flag-icon-pa"></span> Panama</td>
+            <td><a href="https://Nordvpn.com/">NordVPN.com</a></td>
           </tr>
           <tr>
             <td data-value="OVPN.com">
